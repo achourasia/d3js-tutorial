@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Browser Tab Title</title>
+
+        <style type="text/css">
+            /* Select by DOM element type */
+            body {
+                background-color: grey;
+                color: white;
+                text-align: center;
+            }
+
+            p {
+                font-size: 24px;
+                font-weight: bold;
+                background-color: red;
+                color: white;
+            }
+
+            /* Select by class */
+            .steps {
+                background-color: black;
+            }
+
+            /* Select by DOM element type of specific class.
+               Cascading overwrites above styles: */
+            p.main.steps {
+                background-color: blue;
+            }
+
+            /* Add same styles to multiple elements...
+               Note styles are inherited by decendents <li>'s */
+            ul,
+            ol {
+                text-align: left;
+                font-size: 19px;
+                font-family: Arial;
+            }
+
+            /* Select by ID */
+            #class_link {
+                font-size: 20px;
+                background-color: SeaShell;
+            }
+
+            #magic {
+                font-size: 30px;
+                color: red;
+            }
+        </style>
+    </head>
+
+    <body>
+        <!-- Note we can also add styles inline -->
+        <h1 style="color: #33ccff; font-size: 48px; font-style: italic;">Amazing Visualization Tool Cures All Ills</h1>
+        <h2>3 Easy Steps!</h2>
+
+        <p class="main">A new <em>open-source</em> tool designed for visualization of data turns out to have
+        an unexpected, positive side effect: it heals any ailments of the viewer.
+        Leading scientists report that the tool, called <b>D3000</b>, can cure even the
+        following symptoms:</p>
+        <ul class="symptoms">
+            <li>fevers</li>
+            <li>chills</li>
+            <li>general malaise</li>
+        </ul>
+        
+        <p class="main steps">It achieves this end with a patented, three-step process.</p>
+        <ol class="steps">
+            <li>Load in data.</li>
+            <li>Generate a visual representation.</li>
+            <li>Activate <span id="magic">magic healing function</span>.</li>
+        </ol>
+
+        <br/>
+        <div id="ucsd_img">
+            <img src="home_pic.png" width="100" height="100"/>
+        </div>
+
+        <div id="class_link">
+            <a href="https://mas-dse.github.io/DSE241/">This is a link</a> 
+        </div>
+    </body>
+</html>

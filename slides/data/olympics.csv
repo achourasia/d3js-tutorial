@@ -1,0 +1,2312 @@
+Year,City,Sport,Discipline,NOC,Event,Gender,Medal,Country,Latitude,Longitude
+1924,Chamonix,Skating,Figure skating,AUT,individual,M,Silver,Austria,45.9231,6.8697
+1924,Chamonix,Skating,Figure skating,AUT,individual,W,Gold,Austria,45.9231,6.8697
+1924,Chamonix,Skating,Figure skating,AUT,pairs,X,Gold,Austria,45.9231,6.8697
+1924,Chamonix,Bobsleigh,Bobsleigh,BEL,four-man,M,Bronze,Belgium,45.9231,6.8697
+1924,Chamonix,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Gold,Canada,45.9231,6.8697
+1924,Chamonix,Biathlon,Biathlon,FIN,military patrol,M,Silver,Finland,45.9231,6.8697
+1924,Chamonix,Skating,Figure skating,FIN,pairs,X,Silver,Finland,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,FIN,10000m,M,Gold,Finland,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,FIN,10000m,M,Silver,Finland,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,FIN,1500m,M,Gold,Finland,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,FIN,5000m,M,Gold,Finland,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,FIN,5000m,M,Silver,Finland,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,FIN,500m,M,Bronze,Finland,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,FIN,combined (4 events),M,Bronze,Finland,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,FIN,combined (4 events),M,Gold,Finland,45.9231,6.8697
+1924,Chamonix,Skiing,Cross Country S,FIN,18km,M,Bronze,Finland,45.9231,6.8697
+1924,Chamonix,Biathlon,Biathlon,FRA,military patrol,M,Bronze,France,45.9231,6.8697
+1924,Chamonix,Curling,Curling,FRA,curling,M,Bronze,France,45.9231,6.8697
+1924,Chamonix,Skating,Figure skating,FRA,pairs,X,Bronze,France,45.9231,6.8697
+1924,Chamonix,Bobsleigh,Bobsleigh,GBR,four-man,M,Silver,United Kingdom,45.9231,6.8697
+1924,Chamonix,Curling,Curling,GBR,curling,M,Gold,United Kingdom,45.9231,6.8697
+1924,Chamonix,Ice Hockey,Ice Hockey,GBR,ice hockey,M,Bronze,United Kingdom,45.9231,6.8697
+1924,Chamonix,Skating,Figure skating,GBR,individual,W,Bronze,United Kingdom,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,NOR,10000m,M,Bronze,Norway,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,NOR,1500m,M,Bronze,Norway,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,NOR,1500m,M,Silver,Norway,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,NOR,5000m,M,Bronze,Norway,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,NOR,500m,M,Bronze,Norway,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,NOR,500m,M,Silver,Norway,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,NOR,combined (4 events),M,Silver,Norway,45.9231,6.8697
+1924,Chamonix,Skiing,Cross Country S,NOR,18km,M,Gold,Norway,45.9231,6.8697
+1924,Chamonix,Skiing,Cross Country S,NOR,18km,M,Silver,Norway,45.9231,6.8697
+1924,Chamonix,Skiing,Cross Country S,NOR,50km,M,Bronze,Norway,45.9231,6.8697
+1924,Chamonix,Skiing,Cross Country S,NOR,50km,M,Gold,Norway,45.9231,6.8697
+1924,Chamonix,Skiing,Cross Country S,NOR,50km,M,Silver,Norway,45.9231,6.8697
+1924,Chamonix,Skiing,Nordic Combined,NOR,individual,M,Bronze,Norway,45.9231,6.8697
+1924,Chamonix,Skiing,Nordic Combined,NOR,individual,M,Gold,Norway,45.9231,6.8697
+1924,Chamonix,Skiing,Nordic Combined,NOR,individual,M,Silver,Norway,45.9231,6.8697
+1924,Chamonix,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Gold,Norway,45.9231,6.8697
+1924,Chamonix,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Silver,Norway,45.9231,6.8697
+1924,Chamonix,Biathlon,Biathlon,SUI,military patrol,M,Gold,Switzerland,45.9231,6.8697
+1924,Chamonix,Bobsleigh,Bobsleigh,SUI,four-man,M,Gold,Switzerland,45.9231,6.8697
+1924,Chamonix,Skating,Figure skating,SUI,individual,M,Bronze,Switzerland,45.9231,6.8697
+1924,Chamonix,Curling,Curling,SWE,curling,M,Silver,Sweden,45.9231,6.8697
+1924,Chamonix,Skating,Figure skating,SWE,individual,M,Gold,Sweden,45.9231,6.8697
+1924,Chamonix,Ice Hockey,Ice Hockey,USA,ice hockey,M,Silver,United States,45.9231,6.8697
+1924,Chamonix,Skating,Figure skating,USA,individual,W,Silver,United States,45.9231,6.8697
+1924,Chamonix,Skating,Speed skating,USA,500m,M,Gold,United States,45.9231,6.8697
+1924,Chamonix,Skiing,Ski Jumping,USA,K90 individual (70m),M,Bronze,United States,45.9231,6.8697
+1928,St. Moritz,Skating,Figure skating,AUT,individual,M,Silver,Austria,46.5,9.8333
+1928,St. Moritz,Skating,Figure skating,AUT,individual,W,Silver,Austria,46.5,9.8333
+1928,St. Moritz,Skating,Figure skating,AUT,pairs,X,Bronze,Austria,46.5,9.8333
+1928,St. Moritz,Skating,Figure skating,AUT,pairs,X,Silver,Austria,46.5,9.8333
+1928,St. Moritz,Skating,Figure skating,BEL,individual,M,Bronze,Belgium,46.5,9.8333
+1928,St. Moritz,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Gold,Canada,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,FIN,1500m,M,Gold,Finland,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,FIN,5000m,M,Silver,Finland,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,FIN,500m,M,Bronze,Finland,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,FIN,500m,M,Gold,Finland,46.5,9.8333
+1928,St. Moritz,Skating,Figure skating,FRA,pairs,X,Gold,France,46.5,9.8333
+1928,St. Moritz,Bobsleigh,Skeleton,GBR,individual,M,Bronze,United Kingdom,46.5,9.8333
+1928,St. Moritz,Bobsleigh,Bobsleigh,GER,five-man,M,Bronze,Germany,46.5,9.8333
+1928,St. Moritz,Skating,Figure skating,NOR,individual,W,Gold,Norway,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,NOR,1500m,M,Bronze,Norway,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,NOR,1500m,M,Silver,Norway,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,NOR,5000m,M,Bronze,Norway,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,NOR,5000m,M,Gold,Norway,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,NOR,500m,M,Bronze,Norway,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,NOR,500m,M,Gold,Norway,46.5,9.8333
+1928,St. Moritz,Skiing,Cross Country S,NOR,18km,M,Bronze,Norway,46.5,9.8333
+1928,St. Moritz,Skiing,Cross Country S,NOR,18km,M,Gold,Norway,46.5,9.8333
+1928,St. Moritz,Skiing,Cross Country S,NOR,18km,M,Silver,Norway,46.5,9.8333
+1928,St. Moritz,Skiing,Nordic Combined,NOR,individual,M,Bronze,Norway,46.5,9.8333
+1928,St. Moritz,Skiing,Nordic Combined,NOR,individual,M,Gold,Norway,46.5,9.8333
+1928,St. Moritz,Skiing,Nordic Combined,NOR,individual,M,Silver,Norway,46.5,9.8333
+1928,St. Moritz,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Gold,Norway,46.5,9.8333
+1928,St. Moritz,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Silver,Norway,46.5,9.8333
+1928,St. Moritz,Ice Hockey,Ice Hockey,SUI,ice hockey,M,Bronze,Switzerland,46.5,9.8333
+1928,St. Moritz,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Silver,Sweden,46.5,9.8333
+1928,St. Moritz,Skating,Figure skating,SWE,individual,M,Gold,Sweden,46.5,9.8333
+1928,St. Moritz,Skiing,Cross Country S,SWE,50km,M,Bronze,Sweden,46.5,9.8333
+1928,St. Moritz,Skiing,Cross Country S,SWE,50km,M,Gold,Sweden,46.5,9.8333
+1928,St. Moritz,Skiing,Cross Country S,SWE,50km,M,Silver,Sweden,46.5,9.8333
+1928,St. Moritz,Skiing,Ski Jumping,TCH,K90 individual (70m),M,Bronze,Czechoslovakia,46.5,9.8333
+1928,St. Moritz,Bobsleigh,Bobsleigh,USA,five-man,M,Gold,United States,46.5,9.8333
+1928,St. Moritz,Bobsleigh,Bobsleigh,USA,five-man,M,Silver,United States,46.5,9.8333
+1928,St. Moritz,Bobsleigh,Skeleton,USA,individual,M,Gold,United States,46.5,9.8333
+1928,St. Moritz,Bobsleigh,Skeleton,USA,individual,M,Silver,United States,46.5,9.8333
+1928,St. Moritz,Skating,Figure skating,USA,individual,W,Bronze,United States,46.5,9.8333
+1928,St. Moritz,Skating,Speed skating,USA,500m,M,Bronze,United States,46.5,9.8333
+1932,Lake Placid,Skating,Figure skating,AUT,individual,M,Gold,Austria,44.2856,-73.9833
+1932,Lake Placid,Skating,Figure skating,AUT,individual,W,Silver,Austria,44.2856,-73.9833
+1932,Lake Placid,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Gold,Canada,44.2856,-73.9833
+1932,Lake Placid,Skating,Figure skating,CAN,individual,M,Bronze,Canada,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,CAN,10000m,M,Bronze,Canada,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,CAN,1500m,M,Bronze,Canada,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,CAN,1500m,M,Silver,Canada,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,CAN,5000m,M,Bronze,Canada,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,CAN,500m,M,Bronze,Canada,44.2856,-73.9833
+1932,Lake Placid,Skiing,Cross Country S,FIN,18km,M,Bronze,Finland,44.2856,-73.9833
+1932,Lake Placid,Skiing,Cross Country S,FIN,50km,M,Gold,Finland,44.2856,-73.9833
+1932,Lake Placid,Skiing,Cross Country S,FIN,50km,M,Silver,Finland,44.2856,-73.9833
+1932,Lake Placid,Skating,Figure skating,FRA,pairs,X,Gold,France,44.2856,-73.9833
+1932,Lake Placid,Bobsleigh,Bobsleigh,GER,four-man,M,Bronze,Germany,44.2856,-73.9833
+1932,Lake Placid,Ice Hockey,Ice Hockey,GER,ice hockey,M,Bronze,Germany,44.2856,-73.9833
+1932,Lake Placid,Skating,Figure skating,HUN,pairs,X,Bronze,Hungary,44.2856,-73.9833
+1932,Lake Placid,Skating,Figure skating,NOR,individual,W,Gold,Norway,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,NOR,10000m,M,Silver,Norway,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,NOR,500m,M,Silver,Norway,44.2856,-73.9833
+1932,Lake Placid,Skiing,Cross Country S,NOR,50km,M,Bronze,Norway,44.2856,-73.9833
+1932,Lake Placid,Skiing,Nordic Combined,NOR,individual,M,Bronze,Norway,44.2856,-73.9833
+1932,Lake Placid,Skiing,Nordic Combined,NOR,individual,M,Gold,Norway,44.2856,-73.9833
+1932,Lake Placid,Skiing,Nordic Combined,NOR,individual,M,Silver,Norway,44.2856,-73.9833
+1932,Lake Placid,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Bronze,Norway,44.2856,-73.9833
+1932,Lake Placid,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Gold,Norway,44.2856,-73.9833
+1932,Lake Placid,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Silver,Norway,44.2856,-73.9833
+1932,Lake Placid,Bobsleigh,Bobsleigh,SUI,two-man,M,Silver,Switzerland,44.2856,-73.9833
+1932,Lake Placid,Skating,Figure skating,SWE,individual,M,Silver,Sweden,44.2856,-73.9833
+1932,Lake Placid,Skiing,Cross Country S,SWE,18km,M,Gold,Sweden,44.2856,-73.9833
+1932,Lake Placid,Skiing,Cross Country S,SWE,18km,M,Silver,Sweden,44.2856,-73.9833
+1932,Lake Placid,Bobsleigh,Bobsleigh,USA,four-man,M,Gold,United States,44.2856,-73.9833
+1932,Lake Placid,Bobsleigh,Bobsleigh,USA,four-man,M,Silver,United States,44.2856,-73.9833
+1932,Lake Placid,Bobsleigh,Bobsleigh,USA,two-man,M,Bronze,United States,44.2856,-73.9833
+1932,Lake Placid,Bobsleigh,Bobsleigh,USA,two-man,M,Gold,United States,44.2856,-73.9833
+1932,Lake Placid,Ice Hockey,Ice Hockey,USA,ice hockey,M,Silver,United States,44.2856,-73.9833
+1932,Lake Placid,Skating,Figure skating,USA,individual,W,Bronze,United States,44.2856,-73.9833
+1932,Lake Placid,Skating,Figure skating,USA,pairs,X,Silver,United States,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,USA,10000m,M,Gold,United States,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,USA,1500m,M,Gold,United States,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,USA,5000m,M,Gold,United States,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,USA,5000m,M,Silver,United States,44.2856,-73.9833
+1932,Lake Placid,Skating,Speed skating,USA,500m,M,Gold,United States,44.2856,-73.9833
+1936,Garmisch-Partenkirchen,Skating,Figure skating,AUT,individual,M,Bronze,Austria,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Figure skating,AUT,individual,M,Gold,Austria,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Figure skating,AUT,pairs,X,Silver,Austria,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,AUT,10000m,M,Bronze,Austria,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Silver,Canada,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,FIN,10000m,M,Silver,Finland,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,FIN,1500m,M,Bronze,Finland,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,FIN,5000m,M,Bronze,Finland,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,FIN,5000m,M,Silver,Finland,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Cross Country S,FIN,18km,M,Bronze,Finland,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Cross Country S,FIN,4x10km relay,M,Gold,Finland,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Alpine Skiing,FRA,alpine combined,M,Bronze,France,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Bobsleigh,Bobsleigh,GBR,four-man,M,Bronze,United Kingdom,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Ice Hockey,Ice Hockey,GBR,ice hockey,M,Gold,United Kingdom,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Figure skating,GBR,individual,W,Silver,United Kingdom,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Figure skating,GER,individual,M,Silver,Germany,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Figure skating,GER,pairs,X,Gold,Germany,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Alpine Skiing,GER,alpine combined,M,Gold,Germany,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Alpine Skiing,GER,alpine combined,M,Silver,Germany,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Alpine Skiing,GER,alpine combined,W,Gold,Germany,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Alpine Skiing,GER,alpine combined,W,Silver,Germany,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Figure skating,HUN,pairs,X,Bronze,Hungary,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Figure skating,NOR,individual,W,Gold,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,NOR,10000m,M,Gold,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,NOR,1500m,M,Gold,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,NOR,1500m,M,Silver,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,NOR,5000m,M,Gold,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,NOR,500m,M,Gold,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,NOR,500m,M,Silver,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Alpine Skiing,NOR,alpine combined,W,Bronze,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Cross Country S,NOR,18km,M,Silver,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Cross Country S,NOR,4x10km relay,M,Silver,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Nordic Combined,NOR,individual,M,Bronze,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Nordic Combined,NOR,individual,M,Gold,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Nordic Combined,NOR,individual,M,Silver,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Bronze,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Gold,Norway,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Bobsleigh,Bobsleigh,SUI,four-man,M,Gold,Switzerland,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Bobsleigh,Bobsleigh,SUI,four-man,M,Silver,Switzerland,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Bobsleigh,Bobsleigh,SUI,two-man,M,Silver,Switzerland,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Figure skating,SWE,individual,W,Bronze,Sweden,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Cross Country S,SWE,18km,M,Gold,Sweden,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Cross Country S,SWE,4x10km relay,M,Bronze,Sweden,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Cross Country S,SWE,50km,M,Bronze,Sweden,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Cross Country S,SWE,50km,M,Gold,Sweden,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Cross Country S,SWE,50km,M,Silver,Sweden,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skiing,Ski Jumping,SWE,K90 individual (70m),M,Silver,Sweden,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Bobsleigh,Bobsleigh,USA,two-man,M,Bronze,United States,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Bobsleigh,Bobsleigh,USA,two-man,M,Gold,United States,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Ice Hockey,Ice Hockey,USA,ice hockey,M,Bronze,United States,47.4873,11.0982
+1936,Garmisch-Partenkirchen,Skating,Speed skating,USA,500m,M,Bronze,United States,47.4873,11.0982
+1948,St. Moritz,Skating,Figure skating,AUT,individual,M,Bronze,Austria,46.5,9.8333
+1948,St. Moritz,Skating,Figure skating,AUT,individual,W,Silver,Austria,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,AUT,alpine combined,W,Bronze,Austria,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,AUT,alpine combined,W,Gold,Austria,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,AUT,downhill,M,Silver,Austria,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,AUT,downhill,W,Bronze,Austria,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,AUT,downhill,W,Silver,Austria,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,AUT,slalom,W,Bronze,Austria,46.5,9.8333
+1948,St. Moritz,Bobsleigh,Bobsleigh,BEL,four-man,M,Silver,Belgium,46.5,9.8333
+1948,St. Moritz,Skating,Figure skating,BEL,pairs,X,Gold,Belgium,46.5,9.8333
+1948,St. Moritz,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Gold,Canada,46.5,9.8333
+1948,St. Moritz,Skating,Figure skating,CAN,individual,W,Gold,Canada,46.5,9.8333
+1948,St. Moritz,Skating,Figure skating,CAN,pairs,X,Bronze,Canada,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,FIN,10000m,M,Bronze,Finland,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,FIN,10000m,M,Silver,Finland,46.5,9.8333
+1948,St. Moritz,Skiing,Cross Country S,FIN,4x10km relay,M,Silver,Finland,46.5,9.8333
+1948,St. Moritz,Skiing,Cross Country S,FIN,50km,M,Bronze,Finland,46.5,9.8333
+1948,St. Moritz,Skiing,Nordic Combined,FIN,individual,M,Gold,Finland,46.5,9.8333
+1948,St. Moritz,Skiing,Nordic Combined,FIN,individual,M,Silver,Finland,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,FRA,alpine combined,M,Bronze,France,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,FRA,alpine combined,M,Gold,France,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,FRA,downhill,M,Gold,France,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,FRA,slalom,M,Bronze,France,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,FRA,slalom,M,Silver,France,46.5,9.8333
+1948,St. Moritz,Bobsleigh,Skeleton,GBR,individual,M,Bronze,United Kingdom,46.5,9.8333
+1948,St. Moritz,Skating,Figure skating,GBR,individual,W,Bronze,United Kingdom,46.5,9.8333
+1948,St. Moritz,Skating,Figure skating,HUN,pairs,X,Silver,Hungary,46.5,9.8333
+1948,St. Moritz,Bobsleigh,Skeleton,ITA,individual,M,Gold,Italy,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,NOR,1500m,M,Bronze,Norway,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,NOR,1500m,M,Gold,Norway,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,NOR,5000m,M,Gold,Norway,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,NOR,5000m,M,Silver,Norway,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,NOR,500m,M,Gold,Norway,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,NOR,500m,M,Silver,Norway,46.5,9.8333
+1948,St. Moritz,Skiing,Cross Country S,NOR,4x10km relay,M,Bronze,Norway,46.5,9.8333
+1948,St. Moritz,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Bronze,Norway,46.5,9.8333
+1948,St. Moritz,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Gold,Norway,46.5,9.8333
+1948,St. Moritz,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Silver,Norway,46.5,9.8333
+1948,St. Moritz,Bobsleigh,Bobsleigh,SUI,two-man,M,Gold,Switzerland,46.5,9.8333
+1948,St. Moritz,Bobsleigh,Bobsleigh,SUI,two-man,M,Silver,Switzerland,46.5,9.8333
+1948,St. Moritz,Ice Hockey,Ice Hockey,SUI,ice hockey,M,Bronze,Switzerland,46.5,9.8333
+1948,St. Moritz,Skating,Figure skating,SUI,individual,M,Silver,Switzerland,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,SUI,alpine combined,M,Silver,Switzerland,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,SUI,downhill,M,Bronze,Switzerland,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,SUI,downhill,M,Bronze,Switzerland,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,SUI,downhill,W,Gold,Switzerland,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,SUI,slalom,M,Gold,Switzerland,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,SUI,slalom,W,Silver,Switzerland,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,SWE,10000m,M,Gold,Sweden,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,SWE,1500m,M,Silver,Sweden,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,SWE,5000m,M,Bronze,Sweden,46.5,9.8333
+1948,St. Moritz,Skiing,Cross Country S,SWE,18km,M,Bronze,Sweden,46.5,9.8333
+1948,St. Moritz,Skiing,Cross Country S,SWE,18km,M,Gold,Sweden,46.5,9.8333
+1948,St. Moritz,Skiing,Cross Country S,SWE,18km,M,Silver,Sweden,46.5,9.8333
+1948,St. Moritz,Skiing,Cross Country S,SWE,4x10km relay,M,Gold,Sweden,46.5,9.8333
+1948,St. Moritz,Skiing,Cross Country S,SWE,50km,M,Gold,Sweden,46.5,9.8333
+1948,St. Moritz,Skiing,Cross Country S,SWE,50km,M,Silver,Sweden,46.5,9.8333
+1948,St. Moritz,Skiing,Nordic Combined,SWE,individual,M,Bronze,Sweden,46.5,9.8333
+1948,St. Moritz,Ice Hockey,Ice Hockey,TCH,ice hockey,M,Silver,Czechoslovakia,46.5,9.8333
+1948,St. Moritz,Bobsleigh,Bobsleigh,USA,four-man,M,Bronze,United States,46.5,9.8333
+1948,St. Moritz,Bobsleigh,Bobsleigh,USA,four-man,M,Gold,United States,46.5,9.8333
+1948,St. Moritz,Bobsleigh,Bobsleigh,USA,two-man,M,Bronze,United States,46.5,9.8333
+1948,St. Moritz,Bobsleigh,Skeleton,USA,individual,M,Silver,United States,46.5,9.8333
+1948,St. Moritz,Skating,Figure skating,USA,individual,M,Gold,United States,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,USA,500m,M,Silver,United States,46.5,9.8333
+1948,St. Moritz,Skating,Speed skating,USA,500m,M,Silver,United States,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,USA,alpine combined,W,Silver,United States,46.5,9.8333
+1948,St. Moritz,Skiing,Alpine Skiing,USA,slalom,W,Gold,United States,46.5,9.8333
+1952,Oslo,Skating,Figure skating,AUT,individual,M,Silver,Austria,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,AUT,downhill,M,Bronze,Austria,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,AUT,downhill,M,Silver,Austria,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,AUT,downhill,W,Gold,Austria,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,AUT,giant slalom,M,Bronze,Austria,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,AUT,giant slalom,M,Silver,Austria,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,AUT,giant slalom,W,Silver,Austria,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,AUT,slalom,M,Gold,Austria,59.9137,10.7529
+1952,Oslo,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Gold,Canada,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,CAN,500m,M,Bronze,Canada,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,FIN,10km,W,Bronze,Finland,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,FIN,10km,W,Gold,Finland,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,FIN,10km,W,Silver,Finland,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,FIN,18km,M,Bronze,Finland,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,FIN,18km,M,Silver,Finland,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,FIN,4x10km relay,M,Gold,Finland,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,FIN,50km,M,Gold,Finland,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,FIN,50km,M,Silver,Finland,59.9137,10.7529
+1952,Oslo,Skiing,Nordic Combined,FIN,individual,M,Silver,Finland,59.9137,10.7529
+1952,Oslo,Skating,Figure skating,FRA,individual,W,Bronze,France,59.9137,10.7529
+1952,Oslo,Bobsleigh,Bobsleigh,FRG,four-man,M,Gold,West Germany,59.9137,10.7529
+1952,Oslo,Bobsleigh,Bobsleigh,FRG,two-man,M,Gold,West Germany,59.9137,10.7529
+1952,Oslo,Skating,Figure skating,GBR,individual,W,Gold,United Kingdom,59.9137,10.7529
+1952,Oslo,Skating,Figure skating,GER,pairs,X,Gold,Germany,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,GER,downhill,W,Silver,Germany,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,GER,giant slalom,W,Bronze,Germany,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,GER,slalom,W,Bronze,Germany,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,GER,slalom,W,Silver,Germany,59.9137,10.7529
+1952,Oslo,Skating,Figure skating,HUN,pairs,X,Bronze,Hungary,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,ITA,downhill,M,Gold,Italy,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,ITA,downhill,W,Bronze,Italy,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,NED,10000m,M,Silver,Netherlands,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,NED,1500m,M,Silver,Netherlands,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,NED,5000m,M,Silver,Netherlands,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,NOR,10000m,M,Gold,Norway,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,NOR,1500m,M,Bronze,Norway,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,NOR,1500m,M,Gold,Norway,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,NOR,5000m,M,Bronze,Norway,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,NOR,5000m,M,Gold,Norway,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,NOR,500m,M,Bronze,Norway,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,NOR,giant slalom,M,Gold,Norway,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,NOR,slalom,M,Bronze,Norway,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,NOR,slalom,M,Silver,Norway,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,NOR,18km,M,Gold,Norway,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,NOR,4x10km relay,M,Silver,Norway,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,NOR,50km,M,Bronze,Norway,59.9137,10.7529
+1952,Oslo,Skiing,Nordic Combined,NOR,individual,M,Bronze,Norway,59.9137,10.7529
+1952,Oslo,Skiing,Nordic Combined,NOR,individual,M,Gold,Norway,59.9137,10.7529
+1952,Oslo,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Gold,Norway,59.9137,10.7529
+1952,Oslo,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Silver,Norway,59.9137,10.7529
+1952,Oslo,Bobsleigh,Bobsleigh,SUI,four-man,M,Bronze,Switzerland,59.9137,10.7529
+1952,Oslo,Bobsleigh,Bobsleigh,SUI,two-man,M,Bronze,Switzerland,59.9137,10.7529
+1952,Oslo,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Bronze,Sweden,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,SWE,10000m,M,Bronze,Sweden,59.9137,10.7529
+1952,Oslo,Skiing,Cross Country S,SWE,4x10km relay,M,Bronze,Sweden,59.9137,10.7529
+1952,Oslo,Skiing,Ski Jumping,SWE,K90 individual (70m),M,Bronze,Sweden,59.9137,10.7529
+1952,Oslo,Bobsleigh,Bobsleigh,USA,four-man,M,Silver,United States,59.9137,10.7529
+1952,Oslo,Bobsleigh,Bobsleigh,USA,two-man,M,Silver,United States,59.9137,10.7529
+1952,Oslo,Ice Hockey,Ice Hockey,USA,ice hockey,M,Silver,United States,59.9137,10.7529
+1952,Oslo,Skating,Figure skating,USA,individual,M,Bronze,United States,59.9137,10.7529
+1952,Oslo,Skating,Figure skating,USA,individual,M,Gold,United States,59.9137,10.7529
+1952,Oslo,Skating,Figure skating,USA,individual,W,Silver,United States,59.9137,10.7529
+1952,Oslo,Skating,Figure skating,USA,pairs,X,Silver,United States,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,USA,500m,M,Gold,United States,59.9137,10.7529
+1952,Oslo,Skating,Speed skating,USA,500m,M,Silver,United States,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,USA,giant slalom,W,Gold,United States,59.9137,10.7529
+1952,Oslo,Skiing,Alpine Skiing,USA,slalom,W,Gold,United States,59.9137,10.7529
+1956,Cortina d'Ampezzo,Skating,Figure skating,AUT,individual,W,Bronze,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Figure skating,AUT,pairs,X,Gold,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,AUT,downhill,M,Bronze,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,AUT,downhill,M,Gold,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,AUT,giant slalom,M,Bronze,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,AUT,giant slalom,M,Gold,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,AUT,giant slalom,M,Silver,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,AUT,giant slalom,W,Bronze,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,AUT,giant slalom,W,Silver,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,AUT,slalom,M,Gold,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,AUT,slalom,W,Silver,Austria,46.5443,12.1332
+1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Bronze,Canada,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Figure skating,CAN,pairs,X,Silver,Canada,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,CAN,downhill,W,Bronze,Canada,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,EUA,giant slalom,W,Gold,Unified Team of Germany,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Ski Jumping,EUA,K90 individual (70m),M,Bronze,Unified Team of Germany,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,FIN,1500m,M,Bronze,Finland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,FIN,30km mass start,M,Gold,Finland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,FIN,3x5km relay,W,Gold,Finland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,FIN,4x10km relay,M,Silver,Finland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,FIN,50km,M,Silver,Finland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Gold,Finland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Silver,Finland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Figure skating,HUN,pairs,X,Bronze,Hungary,46.5443,12.1332
+1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,ITA,four-man,M,Silver,Italy,46.5443,12.1332
+1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,ITA,two-man,M,Gold,Italy,46.5443,12.1332
+1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,ITA,two-man,M,Silver,Italy,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,JPN,slalom,M,Silver,Japan,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,NOR,10000m,M,Silver,Norway,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,NOR,500m,M,Bronze,Norway,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,NOR,15km,M,Gold,Norway,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Nordic Combined,NOR,individual,M,Gold,Norway,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Nordic Combined,POL,individual,M,Bronze,Poland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,SUI,four-man,M,Gold,Switzerland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,SUI,two-man,M,Bronze,Switzerland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,SUI,downhill,M,Silver,Switzerland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,SUI,downhill,W,Gold,Switzerland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,SUI,downhill,W,Silver,Switzerland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,SUI,slalom,W,Gold,Switzerland,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,SWE,10000m,M,Gold,Sweden,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,SWE,5000m,M,Silver,Sweden,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,SWE,slalom,M,Bronze,Sweden,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,SWE,10km,W,Bronze,Sweden,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,SWE,15km,M,Silver,Sweden,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,SWE,30km mass start,M,Silver,Sweden,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,SWE,3x5km relay,W,Bronze,Sweden,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,SWE,4x10km relay,M,Bronze,Sweden,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,SWE,50km,M,Gold,Sweden,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Nordic Combined,SWE,individual,M,Silver,Sweden,46.5443,12.1332
+1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,URS,ice hockey,M,Gold,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,URS,10000m,M,Bronze,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,URS,1500m,M,Gold,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,URS,1500m,M,Gold,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,URS,5000m,M,Bronze,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,URS,5000m,M,Gold,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,URS,500m,M,Gold,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Speed skating,URS,500m,M,Silver,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,URS,slalom,W,Bronze,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,URS,10km,W,Gold,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,URS,10km,W,Silver,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,URS,15km,M,Bronze,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,URS,30km mass start,M,Bronze,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,URS,3x5km relay,W,Silver,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,URS,4x10km relay,M,Gold,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skiing,Cross Country S,URS,50km,M,Bronze,Soviet Union,46.5443,12.1332
+1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,USA,four-man,M,Bronze,United States,46.5443,12.1332
+1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,USA,ice hockey,M,Silver,United States,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Figure skating,USA,individual,M,Bronze,United States,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Figure skating,USA,individual,M,Gold,United States,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Figure skating,USA,individual,M,Silver,United States,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Figure skating,USA,individual,W,Gold,United States,46.5443,12.1332
+1956,Cortina d'Ampezzo,Skating,Figure skating,USA,individual,W,Silver,United States,46.5443,12.1332
+1960,Squaw Valley,Skiing,Alpine Skiing,AUT,downhill,W,Bronze,Austria,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,AUT,giant slalom,M,Bronze,Austria,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,AUT,giant slalom,M,Silver,Austria,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,AUT,slalom,M,Gold,Austria,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,AUT,slalom,M,Silver,Austria,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Ski Jumping,AUT,K90 individual (70m),M,Bronze,Austria,39.1954,-120.2355
+1960,Squaw Valley,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Silver,Canada,39.1954,-120.2355
+1960,Squaw Valley,Skating,Figure skating,CAN,individual,M,Bronze,Canada,39.1954,-120.2355
+1960,Squaw Valley,Skating,Figure skating,CAN,pairs,X,Gold,Canada,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,CAN,slalom,W,Gold,Canada,39.1954,-120.2355
+1960,Squaw Valley,Skating,Figure skating,EUA,pairs,X,Silver,Unified Team of Germany,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,EUA,1000m,W,Silver,Unified Team of Germany,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,EUA,500m,W,Gold,Unified Team of Germany,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,EUA,downhill,M,Silver,Unified Team of Germany,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,EUA,downhill,W,Gold,Unified Team of Germany,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,EUA,slalom,W,Bronze,Unified Team of Germany,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Nordic Combined,EUA,individual,M,Gold,Unified Team of Germany,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Ski Jumping,EUA,K90 individual (70m),M,Gold,Unified Team of Germany,39.1954,-120.2355
+1960,Squaw Valley,Biathlon,Biathlon,FIN,20km,M,Silver,Finland,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,FIN,3000m,W,Bronze,Finland,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,FIN,15km,M,Bronze,Finland,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,FIN,3x5km relay,W,Bronze,Finland,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,FIN,4x10km relay,M,Gold,Finland,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,FIN,50km,M,Gold,Finland,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,FIN,50km,M,Silver,Finland,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Silver,Finland,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,FRA,downhill,M,Bronze,France,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,FRA,downhill,M,Gold,France,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,FRA,slalom,M,Bronze,France,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,ITA,giant slalom,W,Bronze,Italy,39.1954,-120.2355
+1960,Squaw Valley,Skating,Figure skating,NED,individual,W,Silver,Netherlands,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,NED,5000m,M,Bronze,Netherlands,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,NOR,10000m,M,Gold,Norway,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,NOR,1500m,M,Gold,Norway,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,NOR,5000m,M,Silver,Norway,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,NOR,15km,M,Gold,Norway,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,NOR,4x10km relay,M,Silver,Norway,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Nordic Combined,NOR,individual,M,Silver,Norway,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,POL,1500m,W,Bronze,Poland,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,POL,1500m,W,Silver,Poland,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,SUI,giant slalom,M,Gold,Switzerland,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,SUI,giant slalom,W,Gold,Switzerland,39.1954,-120.2355
+1960,Squaw Valley,Biathlon,Biathlon,SWE,20km,M,Gold,Sweden,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,SWE,10000m,M,Bronze,Sweden,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,SWE,15km,M,Silver,Sweden,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,SWE,30km mass start,M,Gold,Sweden,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,SWE,30km mass start,M,Silver,Sweden,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,SWE,3x5km relay,W,Gold,Sweden,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,SWE,50km,M,Bronze,Sweden,39.1954,-120.2355
+1960,Squaw Valley,Skating,Figure skating,TCH,individual,M,Silver,Czechoslovakia,39.1954,-120.2355
+1960,Squaw Valley,Biathlon,Biathlon,URS,20km,M,Bronze,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Ice Hockey,Ice Hockey,URS,ice hockey,M,Bronze,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,10000m,M,Silver,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,1000m,W,Bronze,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,1000m,W,Gold,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,1500m,M,Bronze,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,1500m,M,Gold,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,1500m,W,Gold,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,3000m,W,Gold,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,3000m,W,Silver,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,5000m,M,Gold,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,500m,M,Bronze,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,500m,M,Gold,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,URS,500m,W,Silver,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,URS,10km,W,Bronze,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,URS,10km,W,Gold,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,URS,10km,W,Silver,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,URS,30km mass start,M,Bronze,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,URS,3x5km relay,W,Silver,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Cross Country S,URS,4x10km relay,M,Bronze,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Nordic Combined,URS,individual,M,Bronze,Soviet Union,39.1954,-120.2355
+1960,Squaw Valley,Ice Hockey,Ice Hockey,USA,ice hockey,M,Gold,United States,39.1954,-120.2355
+1960,Squaw Valley,Skating,Figure skating,USA,individual,M,Gold,United States,39.1954,-120.2355
+1960,Squaw Valley,Skating,Figure skating,USA,individual,W,Bronze,United States,39.1954,-120.2355
+1960,Squaw Valley,Skating,Figure skating,USA,individual,W,Gold,United States,39.1954,-120.2355
+1960,Squaw Valley,Skating,Figure skating,USA,pairs,X,Bronze,United States,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,USA,500m,M,Silver,United States,39.1954,-120.2355
+1960,Squaw Valley,Skating,Speed skating,USA,500m,W,Bronze,United States,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,USA,downhill,W,Silver,United States,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,USA,giant slalom,W,Silver,United States,39.1954,-120.2355
+1960,Squaw Valley,Skiing,Alpine Skiing,USA,slalom,W,Silver,United States,39.1954,-120.2355
+1964,Innsbruck,Bobsleigh,Bobsleigh,AUT,four-man,M,Silver,Austria,47.2711,11.4038
+1964,Innsbruck,Luge,Luge,AUT,doubles,X,Gold,Austria,47.2711,11.4038
+1964,Innsbruck,Luge,Luge,AUT,doubles,X,Silver,Austria,47.2711,11.4038
+1964,Innsbruck,Luge,Luge,AUT,singles,W,Bronze,Austria,47.2711,11.4038
+1964,Innsbruck,Skating,Figure skating,AUT,individual,W,Silver,Austria,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,AUT,downhill,M,Gold,Austria,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,AUT,downhill,W,Bronze,Austria,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,AUT,downhill,W,Gold,Austria,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,AUT,downhill,W,Silver,Austria,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,AUT,giant slalom,M,Bronze,Austria,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,AUT,giant slalom,M,Silver,Austria,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,AUT,slalom,M,Gold,Austria,47.2711,11.4038
+1964,Innsbruck,Bobsleigh,Bobsleigh,CAN,four-man,M,Gold,Canada,47.2711,11.4038
+1964,Innsbruck,Skating,Figure skating,CAN,individual,W,Bronze,Canada,47.2711,11.4038
+1964,Innsbruck,Skating,Figure skating,CAN,pairs,X,Bronze,Canada,47.2711,11.4038
+1964,Innsbruck,Luge,Luge,EUA,singles,M,Bronze,Unified Team of Germany,47.2711,11.4038
+1964,Innsbruck,Luge,Luge,EUA,singles,M,Gold,Unified Team of Germany,47.2711,11.4038
+1964,Innsbruck,Luge,Luge,EUA,singles,M,Silver,Unified Team of Germany,47.2711,11.4038
+1964,Innsbruck,Luge,Luge,EUA,singles,W,Gold,Unified Team of Germany,47.2711,11.4038
+1964,Innsbruck,Luge,Luge,EUA,singles,W,Silver,Unified Team of Germany,47.2711,11.4038
+1964,Innsbruck,Skating,Figure skating,EUA,individual,M,Gold,Unified Team of Germany,47.2711,11.4038
+1964,Innsbruck,Skating,Figure skating,EUA,pairs,X,Silver,Unified Team of Germany,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,EUA,downhill,M,Bronze,Unified Team of Germany,47.2711,11.4038
+1964,Innsbruck,Skiing,Nordic Combined,EUA,individual,M,Bronze,Unified Team of Germany,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,FIN,1000m,W,Bronze,Finland,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,FIN,1500m,W,Silver,Finland,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,FIN,15km,M,Gold,Finland,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,FIN,30km mass start,M,Gold,Finland,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,FIN,3x5km relay,W,Bronze,Finland,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,FIN,4x10km relay,M,Silver,Finland,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,FIN,50km,M,Bronze,Finland,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,FIN,5km,W,Silver,Finland,47.2711,11.4038
+1964,Innsbruck,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Silver,Finland,47.2711,11.4038
+1964,Innsbruck,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Gold,Finland,47.2711,11.4038
+1964,Innsbruck,Skating,Figure skating,FRA,individual,M,Silver,France,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,FRA,downhill,M,Silver,France,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,FRA,giant slalom,M,Gold,France,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,FRA,giant slalom,W,Gold,France,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,FRA,giant slalom,W,Silver,France,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,FRA,slalom,W,Gold,France,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,FRA,slalom,W,Silver,France,47.2711,11.4038
+1964,Innsbruck,Bobsleigh,Bobsleigh,GBR,two-man,M,Gold,United Kingdom,47.2711,11.4038
+1964,Innsbruck,Bobsleigh,Bobsleigh,ITA,four-man,M,Bronze,Italy,47.2711,11.4038
+1964,Innsbruck,Bobsleigh,Bobsleigh,ITA,two-man,M,Bronze,Italy,47.2711,11.4038
+1964,Innsbruck,Bobsleigh,Bobsleigh,ITA,two-man,M,Silver,Italy,47.2711,11.4038
+1964,Innsbruck,Luge,Luge,ITA,doubles,X,Bronze,Italy,47.2711,11.4038
+1964,Innsbruck,Skating,Figure skating,NED,individual,W,Gold,Netherlands,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,NED,1500m,M,Silver,Netherlands,47.2711,11.4038
+1964,Innsbruck,Biathlon,Biathlon,NOR,20km,M,Bronze,Norway,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,NOR,10000m,M,Bronze,Norway,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,NOR,10000m,M,Silver,Norway,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,NOR,1500m,M,Bronze,Norway,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,NOR,5000m,M,Bronze,Norway,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,NOR,5000m,M,Gold,Norway,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,NOR,5000m,M,Silver,Norway,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,NOR,500m,M,Silver,Norway,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,NOR,15km,M,Silver,Norway,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,NOR,30km mass start,M,Silver,Norway,47.2711,11.4038
+1964,Innsbruck,Skiing,Nordic Combined,NOR,individual,M,Gold,Norway,47.2711,11.4038
+1964,Innsbruck,Skiing,Ski Jumping,NOR,K120 individual (90m),M,Bronze,Norway,47.2711,11.4038
+1964,Innsbruck,Skiing,Ski Jumping,NOR,K120 individual (90m),M,Gold,Norway,47.2711,11.4038
+1964,Innsbruck,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Bronze,Norway,47.2711,11.4038
+1964,Innsbruck,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Silver,Norway,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,PRK,3000m,W,Silver,"Korea, North",47.2711,11.4038
+1964,Innsbruck,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Silver,Sweden,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,SWE,10000m,M,Gold,Sweden,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,SWE,15km,M,Bronze,Sweden,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,SWE,3x5km relay,W,Silver,Sweden,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,SWE,4x10km relay,M,Gold,Sweden,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,SWE,50km,M,Gold,Sweden,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,SWE,50km,M,Silver,Sweden,47.2711,11.4038
+1964,Innsbruck,Ice Hockey,Ice Hockey,TCH,ice hockey,M,Bronze,Czechoslovakia,47.2711,11.4038
+1964,Innsbruck,Biathlon,Biathlon,URS,20km,M,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Biathlon,Biathlon,URS,20km,M,Silver,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Ice Hockey,Ice Hockey,URS,ice hockey,M,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Figure skating,URS,pairs,X,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,1000m,W,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,1000m,W,Silver,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,1500m,M,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,1500m,W,Bronze,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,1500m,W,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,3000m,W,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,3000m,W,Silver,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,500m,M,Silver,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,500m,M,Silver,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,500m,W,Bronze,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,500m,W,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,URS,500m,W,Silver,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,URS,10km,W,Bronze,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,URS,10km,W,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,URS,10km,W,Silver,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,URS,30km mass start,M,Bronze,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,URS,3x5km relay,W,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,URS,4x10km relay,M,Bronze,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,URS,5km,W,Bronze,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skiing,Cross Country S,URS,5km,W,Gold,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skiing,Nordic Combined,URS,individual,M,Silver,Soviet Union,47.2711,11.4038
+1964,Innsbruck,Skating,Figure skating,USA,individual,M,Bronze,United States,47.2711,11.4038
+1964,Innsbruck,Skating,Speed skating,USA,500m,M,Gold,United States,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,USA,giant slalom,W,Silver,United States,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,USA,slalom,M,Bronze,United States,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,USA,slalom,M,Silver,United States,47.2711,11.4038
+1964,Innsbruck,Skiing,Alpine Skiing,USA,slalom,W,Bronze,United States,47.2711,11.4038
+1968,Grenoble,Bobsleigh,Bobsleigh,AUT,four-man,M,Silver,Austria,45.1841,5.7238
+1968,Grenoble,Luge,Luge,AUT,doubles,X,Silver,Austria,45.1841,5.7238
+1968,Grenoble,Luge,Luge,AUT,singles,M,Gold,Austria,45.1841,5.7238
+1968,Grenoble,Skating,Figure skating,AUT,individual,M,Gold,Austria,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,AUT,downhill,W,Bronze,Austria,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,AUT,downhill,W,Gold,Austria,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,AUT,giant slalom,M,Bronze,Austria,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,AUT,slalom,M,Bronze,Austria,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,AUT,slalom,M,Silver,Austria,45.1841,5.7238
+1968,Grenoble,Skiing,Ski Jumping,AUT,K90 individual (70m),M,Bronze,Austria,45.1841,5.7238
+1968,Grenoble,Skiing,Ski Jumping,AUT,K90 individual (70m),M,Silver,Austria,45.1841,5.7238
+1968,Grenoble,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Bronze,Canada,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,CAN,giant slalom,W,Gold,Canada,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,CAN,slalom,W,Silver,Canada,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,FIN,1500m,W,Gold,Finland,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,FIN,3000m,W,Silver,Finland,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,FIN,15km,M,Silver,Finland,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,FIN,30km mass start,M,Bronze,Finland,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,FIN,4x10km relay,M,Bronze,Finland,45.1841,5.7238
+1968,Grenoble,Skating,Figure skating,FRA,individual,M,Bronze,France,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,FRA,downhill,M,Gold,France,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,FRA,downhill,M,Silver,France,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,FRA,downhill,W,Silver,France,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,FRA,giant slalom,M,Gold,France,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,FRA,giant slalom,W,Silver,France,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,FRA,slalom,M,Gold,France,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,FRA,slalom,W,Bronze,France,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,FRA,slalom,W,Gold,France,45.1841,5.7238
+1968,Grenoble,Bobsleigh,Bobsleigh,FRG,two-man,M,Silver,West Germany,45.1841,5.7238
+1968,Grenoble,Luge,Luge,FRG,doubles,X,Bronze,West Germany,45.1841,5.7238
+1968,Grenoble,Luge,Luge,FRG,singles,W,Bronze,West Germany,45.1841,5.7238
+1968,Grenoble,Luge,Luge,FRG,singles,W,Silver,West Germany,45.1841,5.7238
+1968,Grenoble,Skating,Figure skating,FRG,pairs,X,Bronze,West Germany,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,FRG,500m,M,Gold,West Germany,45.1841,5.7238
+1968,Grenoble,Skiing,Nordic Combined,FRG,individual,M,Gold,West Germany,45.1841,5.7238
+1968,Grenoble,Luge,Luge,GDR,doubles,X,Gold,East Germany,45.1841,5.7238
+1968,Grenoble,Luge,Luge,GDR,singles,M,Bronze,East Germany,45.1841,5.7238
+1968,Grenoble,Luge,Luge,GDR,singles,M,Silver,East Germany,45.1841,5.7238
+1968,Grenoble,Skating,Figure skating,GDR,individual,W,Silver,East Germany,45.1841,5.7238
+1968,Grenoble,Skiing,Nordic Combined,GDR,individual,M,Bronze,East Germany,45.1841,5.7238
+1968,Grenoble,Bobsleigh,Bobsleigh,ITA,four-man,M,Gold,Italy,45.1841,5.7238
+1968,Grenoble,Bobsleigh,Bobsleigh,ITA,two-man,M,Gold,Italy,45.1841,5.7238
+1968,Grenoble,Luge,Luge,ITA,singles,W,Gold,Italy,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,ITA,30km mass start,M,Gold,Italy,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NED,1000m,W,Gold,Netherlands,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NED,1500m,M,Gold,Netherlands,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NED,1500m,M,Silver,Netherlands,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NED,1500m,W,Bronze,Netherlands,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NED,1500m,W,Silver,Netherlands,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NED,3000m,W,Bronze,Netherlands,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NED,3000m,W,Gold,Netherlands,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NED,5000m,M,Bronze,Netherlands,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NED,5000m,M,Silver,Netherlands,45.1841,5.7238
+1968,Grenoble,Biathlon,Biathlon,NOR,20km,M,Gold,Norway,45.1841,5.7238
+1968,Grenoble,Biathlon,Biathlon,NOR,4x7.5km relay,M,Silver,Norway,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NOR,10000m,M,Silver,Norway,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NOR,1500m,M,Silver,Norway,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NOR,5000m,M,Gold,Norway,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,NOR,500m,M,Silver,Norway,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,NOR,10km,W,Bronze,Norway,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,NOR,10km,W,Silver,Norway,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,NOR,15km,M,Gold,Norway,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,NOR,30km mass start,M,Silver,Norway,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,NOR,3x5km relay,W,Gold,Norway,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,NOR,4x10km relay,M,Gold,Norway,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,NOR,50km,M,Gold,Norway,45.1841,5.7238
+1968,Grenoble,Skiing,Ski Jumping,NOR,K120 individual (90m),M,Bronze,Norway,45.1841,5.7238
+1968,Grenoble,Bobsleigh,Bobsleigh,ROU,two-man,M,Bronze,Romania,45.1841,5.7238
+1968,Grenoble,Bobsleigh,Bobsleigh,SUI,four-man,M,Bronze,Switzerland,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,SUI,downhill,M,Bronze,Switzerland,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,SUI,giant slalom,M,Silver,Switzerland,45.1841,5.7238
+1968,Grenoble,Skiing,Alpine Skiing,SUI,giant slalom,W,Bronze,Switzerland,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,SUI,50km,M,Bronze,Switzerland,45.1841,5.7238
+1968,Grenoble,Skiing,Nordic Combined,SUI,individual,M,Silver,Switzerland,45.1841,5.7238
+1968,Grenoble,Biathlon,Biathlon,SWE,4x7.5km relay,M,Bronze,Sweden,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,SWE,10000m,M,Bronze,Sweden,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,SWE,10000m,M,Gold,Sweden,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,SWE,10km,W,Gold,Sweden,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,SWE,15km,M,Bronze,Sweden,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,SWE,3x5km relay,W,Silver,Sweden,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,SWE,4x10km relay,M,Silver,Sweden,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,SWE,5km,W,Gold,Sweden,45.1841,5.7238
+1968,Grenoble,Ice Hockey,Ice Hockey,TCH,ice hockey,M,Silver,Czechoslovakia,45.1841,5.7238
+1968,Grenoble,Skating,Figure skating,TCH,individual,W,Bronze,Czechoslovakia,45.1841,5.7238
+1968,Grenoble,Skiing,Ski Jumping,TCH,K120 individual (90m),M,Silver,Czechoslovakia,45.1841,5.7238
+1968,Grenoble,Skiing,Ski Jumping,TCH,K90 individual (70m),M,Gold,Czechoslovakia,45.1841,5.7238
+1968,Grenoble,Biathlon,Biathlon,URS,20km,M,Bronze,Soviet Union,45.1841,5.7238
+1968,Grenoble,Biathlon,Biathlon,URS,20km,M,Silver,Soviet Union,45.1841,5.7238
+1968,Grenoble,Biathlon,Biathlon,URS,4x7.5km relay,M,Gold,Soviet Union,45.1841,5.7238
+1968,Grenoble,Ice Hockey,Ice Hockey,URS,ice hockey,M,Gold,Soviet Union,45.1841,5.7238
+1968,Grenoble,Skating,Figure skating,URS,pairs,X,Gold,Soviet Union,45.1841,5.7238
+1968,Grenoble,Skating,Figure skating,URS,pairs,X,Silver,Soviet Union,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,URS,1000m,W,Silver,Soviet Union,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,URS,500m,W,Gold,Soviet Union,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,URS,3x5km relay,W,Bronze,Soviet Union,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,URS,50km,M,Silver,Soviet Union,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,URS,5km,W,Bronze,Soviet Union,45.1841,5.7238
+1968,Grenoble,Skiing,Cross Country S,URS,5km,W,Silver,Soviet Union,45.1841,5.7238
+1968,Grenoble,Skiing,Ski Jumping,URS,K120 individual (90m),M,Gold,Soviet Union,45.1841,5.7238
+1968,Grenoble,Skating,Figure skating,USA,individual,M,Silver,United States,45.1841,5.7238
+1968,Grenoble,Skating,Figure skating,USA,individual,W,Gold,United States,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,USA,1000m,W,Bronze,United States,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,USA,500m,M,Silver,United States,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,USA,500m,W,Silver,United States,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,USA,500m,W,Silver,United States,45.1841,5.7238
+1968,Grenoble,Skating,Speed skating,USA,500m,W,Silver,United States,45.1841,5.7238
+1972,Sapporo,Skating,Figure skating,AUT,individual,W,Gold,Austria,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,AUT,downhill,M,Bronze,Austria,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,AUT,downhill,W,Silver,Austria,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,AUT,giant slalom,W,Bronze,Austria,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,AUT,giant slalom,W,Silver,Austria,43.0234,141.3345
+1972,Sapporo,Skating,Figure skating,CAN,individual,W,Silver,Canada,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,ESP,slalom,M,Gold,Spain,43.0234,141.3345
+1972,Sapporo,Biathlon,Biathlon,FIN,4x7.5km relay,M,Silver,Finland,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,FIN,10km,W,Bronze,Finland,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,FIN,3x5km relay,W,Silver,Finland,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,FIN,5km,W,Silver,Finland,43.0234,141.3345
+1972,Sapporo,Skiing,Nordic Combined,FIN,individual,M,Silver,Finland,43.0234,141.3345
+1972,Sapporo,Skating,Figure skating,FRA,individual,M,Bronze,France,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,FRA,slalom,W,Bronze,France,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,FRA,slalom,W,Silver,France,43.0234,141.3345
+1972,Sapporo,Bobsleigh,Bobsleigh,FRG,four-man,M,Bronze,West Germany,43.0234,141.3345
+1972,Sapporo,Bobsleigh,Bobsleigh,FRG,two-man,M,Gold,West Germany,43.0234,141.3345
+1972,Sapporo,Bobsleigh,Bobsleigh,FRG,two-man,M,Silver,West Germany,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,FRG,1000m,W,Gold,West Germany,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,FRG,500m,M,Gold,West Germany,43.0234,141.3345
+1972,Sapporo,Biathlon,Biathlon,GDR,20km,M,Silver,East Germany,43.0234,141.3345
+1972,Sapporo,Biathlon,Biathlon,GDR,4x7.5km relay,M,Bronze,East Germany,43.0234,141.3345
+1972,Sapporo,Luge,Luge,GDR,doubles,X,Bronze,East Germany,43.0234,141.3345
+1972,Sapporo,Luge,Luge,GDR,doubles,X,Gold,East Germany,43.0234,141.3345
+1972,Sapporo,Luge,Luge,GDR,singles,M,Bronze,East Germany,43.0234,141.3345
+1972,Sapporo,Luge,Luge,GDR,singles,M,Gold,East Germany,43.0234,141.3345
+1972,Sapporo,Luge,Luge,GDR,singles,M,Silver,East Germany,43.0234,141.3345
+1972,Sapporo,Luge,Luge,GDR,singles,W,Bronze,East Germany,43.0234,141.3345
+1972,Sapporo,Luge,Luge,GDR,singles,W,Gold,East Germany,43.0234,141.3345
+1972,Sapporo,Luge,Luge,GDR,singles,W,Silver,East Germany,43.0234,141.3345
+1972,Sapporo,Skating,Figure skating,GDR,pairs,X,Bronze,East Germany,43.0234,141.3345
+1972,Sapporo,Skiing,Nordic Combined,GDR,individual,M,Bronze,East Germany,43.0234,141.3345
+1972,Sapporo,Skiing,Nordic Combined,GDR,individual,M,Gold,East Germany,43.0234,141.3345
+1972,Sapporo,Skiing,Ski Jumping,GDR,K120 individual (90m),M,Bronze,East Germany,43.0234,141.3345
+1972,Sapporo,Bobsleigh,Bobsleigh,ITA,four-man,M,Silver,Italy,43.0234,141.3345
+1972,Sapporo,Luge,Luge,ITA,doubles,X,Gold,Italy,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,ITA,giant slalom,M,Gold,Italy,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,ITA,slalom,M,Bronze,Italy,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,ITA,slalom,M,Silver,Italy,43.0234,141.3345
+1972,Sapporo,Skiing,Ski Jumping,JPN,K90 individual (70m),M,Bronze,Japan,43.0234,141.3345
+1972,Sapporo,Skiing,Ski Jumping,JPN,K90 individual (70m),M,Gold,Japan,43.0234,141.3345
+1972,Sapporo,Skiing,Ski Jumping,JPN,K90 individual (70m),M,Silver,Japan,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NED,10000m,M,Gold,Netherlands,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NED,10000m,M,Silver,Netherlands,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NED,1000m,W,Silver,Netherlands,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NED,1500m,M,Gold,Netherlands,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NED,1500m,W,Bronze,Netherlands,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NED,1500m,W,Silver,Netherlands,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NED,3000m,W,Bronze,Netherlands,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NED,3000m,W,Gold,Netherlands,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NED,5000m,M,Gold,Netherlands,43.0234,141.3345
+1972,Sapporo,Biathlon,Biathlon,NOR,20km,M,Gold,Norway,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NOR,10000m,M,Bronze,Norway,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NOR,1500m,M,Silver,Norway,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NOR,5000m,M,Bronze,Norway,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,NOR,5000m,M,Silver,Norway,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,NOR,15km,M,Bronze,Norway,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,NOR,30km mass start,M,Bronze,Norway,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,NOR,30km mass start,M,Silver,Norway,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,NOR,3x5km relay,W,Bronze,Norway,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,NOR,4x10km relay,M,Silver,Norway,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,NOR,50km,M,Gold,Norway,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,NOR,50km,M,Silver,Norway,43.0234,141.3345
+1972,Sapporo,Skiing,Ski Jumping,POL,K120 individual (90m),M,Gold,Poland,43.0234,141.3345
+1972,Sapporo,Bobsleigh,Bobsleigh,SUI,four-man,M,Gold,Switzerland,43.0234,141.3345
+1972,Sapporo,Bobsleigh,Bobsleigh,SUI,two-man,M,Bronze,Switzerland,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,SUI,downhill,M,Gold,Switzerland,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,SUI,downhill,M,Silver,Switzerland,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,SUI,downhill,W,Gold,Switzerland,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,SUI,giant slalom,M,Bronze,Switzerland,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,SUI,giant slalom,M,Silver,Switzerland,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,SUI,giant slalom,W,Gold,Switzerland,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,SUI,4x10km relay,M,Bronze,Switzerland,43.0234,141.3345
+1972,Sapporo,Skiing,Ski Jumping,SUI,K120 individual (90m),M,Silver,Switzerland,43.0234,141.3345
+1972,Sapporo,Biathlon,Biathlon,SWE,20km,M,Bronze,Sweden,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,SWE,1500m,M,Bronze,Sweden,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,SWE,500m,M,Silver,Sweden,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,SWE,15km,M,Gold,Sweden,43.0234,141.3345
+1972,Sapporo,Ice Hockey,Ice Hockey,TCH,ice hockey,M,Bronze,Czechoslovakia,43.0234,141.3345
+1972,Sapporo,Skating,Figure skating,TCH,individual,M,Gold,Czechoslovakia,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,TCH,5km,W,Bronze,Czechoslovakia,43.0234,141.3345
+1972,Sapporo,Biathlon,Biathlon,URS,4x7.5km relay,M,Gold,Soviet Union,43.0234,141.3345
+1972,Sapporo,Ice Hockey,Ice Hockey,URS,ice hockey,M,Gold,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skating,Figure skating,URS,individual,M,Silver,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skating,Figure skating,URS,pairs,X,Gold,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skating,Figure skating,URS,pairs,X,Silver,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,URS,500m,M,Bronze,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,URS,500m,W,Bronze,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,URS,500m,W,Silver,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,URS,10km,W,Gold,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,URS,10km,W,Silver,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,URS,15km,M,Silver,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,URS,30km mass start,M,Gold,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,URS,3x5km relay,W,Gold,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,URS,4x10km relay,M,Gold,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,URS,50km,M,Bronze,Soviet Union,43.0234,141.3345
+1972,Sapporo,Skiing,Cross Country S,URS,5km,W,Gold,Soviet Union,43.0234,141.3345
+1972,Sapporo,Ice Hockey,Ice Hockey,USA,ice hockey,M,Silver,United States,43.0234,141.3345
+1972,Sapporo,Skating,Figure skating,USA,individual,W,Bronze,United States,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,USA,1000m,W,Bronze,United States,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,USA,1500m,W,Gold,United States,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,USA,3000m,W,Silver,United States,43.0234,141.3345
+1972,Sapporo,Skating,Speed skating,USA,500m,W,Gold,United States,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,USA,downhill,W,Bronze,United States,43.0234,141.3345
+1972,Sapporo,Skiing,Alpine Skiing,USA,slalom,W,Gold,United States,43.0234,141.3345
+1976,Innsbruck,Luge,Luge,AUT,doubles,X,Bronze,Austria,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,AUT,downhill,M,Gold,Austria,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,AUT,downhill,W,Silver,Austria,47.2711,11.4038
+1976,Innsbruck,Skiing,Ski Jumping,AUT,K120 individual (90m),M,Gold,Austria,47.2711,11.4038
+1976,Innsbruck,Skiing,Ski Jumping,AUT,K120 individual (90m),M,Silver,Austria,47.2711,11.4038
+1976,Innsbruck,Skiing,Ski Jumping,AUT,K90 individual (70m),M,Bronze,Austria,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,CAN,individual,M,Bronze,Canada,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,CAN,500m,W,Silver,Canada,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,CAN,giant slalom,W,Gold,Canada,47.2711,11.4038
+1976,Innsbruck,Biathlon,Biathlon,FIN,20km,M,Silver,Finland,47.2711,11.4038
+1976,Innsbruck,Biathlon,Biathlon,FIN,4x7.5km relay,M,Silver,Finland,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,FIN,10km,W,Silver,Finland,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,FIN,15km,M,Bronze,Finland,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,FIN,4x10km relay,M,Gold,Finland,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,FIN,4x5km relay,W,Silver,Finland,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,FIN,5km,W,Gold,Finland,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,FRA,giant slalom,W,Bronze,France,47.2711,11.4038
+1976,Innsbruck,Bobsleigh,Bobsleigh,FRG,four-man,M,Bronze,West Germany,47.2711,11.4038
+1976,Innsbruck,Bobsleigh,Bobsleigh,FRG,two-man,M,Silver,West Germany,47.2711,11.4038
+1976,Innsbruck,Ice Hockey,Ice Hockey,FRG,ice hockey,M,Bronze,West Germany,47.2711,11.4038
+1976,Innsbruck,Luge,Luge,FRG,doubles,X,Silver,West Germany,47.2711,11.4038
+1976,Innsbruck,Luge,Luge,FRG,singles,M,Silver,West Germany,47.2711,11.4038
+1976,Innsbruck,Luge,Luge,FRG,singles,W,Bronze,West Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,FRG,downhill,W,Gold,West Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,FRG,giant slalom,W,Silver,West Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,FRG,slalom,W,Gold,West Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Nordic Combined,FRG,individual,M,Silver,West Germany,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,GBR,individual,M,Gold,United Kingdom,47.2711,11.4038
+1976,Innsbruck,Biathlon,Biathlon,GDR,4x7.5km relay,M,Bronze,East Germany,47.2711,11.4038
+1976,Innsbruck,Bobsleigh,Bobsleigh,GDR,four-man,M,Gold,East Germany,47.2711,11.4038
+1976,Innsbruck,Bobsleigh,Bobsleigh,GDR,two-man,M,Gold,East Germany,47.2711,11.4038
+1976,Innsbruck,Luge,Luge,GDR,doubles,X,Gold,East Germany,47.2711,11.4038
+1976,Innsbruck,Luge,Luge,GDR,singles,M,Bronze,East Germany,47.2711,11.4038
+1976,Innsbruck,Luge,Luge,GDR,singles,M,Gold,East Germany,47.2711,11.4038
+1976,Innsbruck,Luge,Luge,GDR,singles,W,Gold,East Germany,47.2711,11.4038
+1976,Innsbruck,Luge,Luge,GDR,singles,W,Silver,East Germany,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,GDR,individual,W,Bronze,East Germany,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,GDR,pairs,X,Bronze,East Germany,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,GDR,pairs,X,Silver,East Germany,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,GDR,3000m,W,Silver,East Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,GDR,4x5km relay,W,Bronze,East Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,GDR,50km,M,Silver,East Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Nordic Combined,GDR,individual,M,Bronze,East Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Nordic Combined,GDR,individual,M,Gold,East Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Ski Jumping,GDR,K120 individual (90m),M,Bronze,East Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Ski Jumping,GDR,K90 individual (70m),M,Gold,East Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Ski Jumping,GDR,K90 individual (70m),M,Silver,East Germany,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,ITA,downhill,M,Bronze,Italy,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,ITA,slalom,M,Gold,Italy,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,ITA,slalom,M,Silver,Italy,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,ITA,slalom,W,Silver,Italy,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,LIE,slalom,M,Bronze,Liechtenstein,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,LIE,slalom,W,Bronze,Liechtenstein,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,NED,individual,W,Silver,Netherlands,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,NED,10000m,M,Bronze,Netherlands,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,NED,10000m,M,Gold,Netherlands,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,NED,1500m,M,Bronze,Netherlands,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,NED,5000m,M,Bronze,Netherlands,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,NED,5000m,M,Silver,Netherlands,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,NOR,10000m,M,Silver,Norway,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,NOR,1000m,M,Silver,Norway,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,NOR,1500m,M,Gold,Norway,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,NOR,3000m,W,Bronze,Norway,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,NOR,5000m,M,Gold,Norway,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,NOR,4x10km relay,M,Silver,Norway,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,NOR,50km,M,Gold,Norway,47.2711,11.4038
+1976,Innsbruck,Bobsleigh,Bobsleigh,SUI,four-man,M,Silver,Switzerland,47.2711,11.4038
+1976,Innsbruck,Bobsleigh,Bobsleigh,SUI,two-man,M,Bronze,Switzerland,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,SUI,downhill,M,Silver,Switzerland,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,SUI,giant slalom,M,Gold,Switzerland,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,SUI,giant slalom,M,Silver,Switzerland,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,SWE,giant slalom,M,Bronze,Sweden,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,SWE,50km,M,Bronze,Sweden,47.2711,11.4038
+1976,Innsbruck,Ice Hockey,Ice Hockey,TCH,ice hockey,M,Silver,Czechoslovakia,47.2711,11.4038
+1976,Innsbruck,Biathlon,Biathlon,URS,20km,M,Bronze,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Biathlon,Biathlon,URS,20km,M,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Biathlon,Biathlon,URS,4x7.5km relay,M,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Ice Hockey,Ice Hockey,URS,ice hockey,M,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,URS,ice dancing,X,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,URS,ice dancing,X,Silver,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,URS,individual,M,Silver,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,URS,pairs,X,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,URS,1000m,M,Bronze,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,URS,1000m,W,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,URS,1500m,M,Silver,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,URS,1500m,W,Bronze,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,URS,1500m,W,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,URS,3000m,W,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,URS,500m,M,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,URS,500m,M,Silver,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,URS,500m,W,Bronze,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,URS,10km,W,Bronze,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,URS,10km,W,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,URS,15km,M,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,URS,15km,M,Silver,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,URS,30km mass start,M,Bronze,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,URS,30km mass start,M,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,URS,4x10km relay,M,Bronze,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,URS,4x5km relay,W,Gold,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,URS,5km,W,Bronze,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,URS,5km,W,Silver,Soviet Union,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,USA,ice dancing,X,Bronze,United States,47.2711,11.4038
+1976,Innsbruck,Skating,Figure skating,USA,individual,W,Gold,United States,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,USA,1000m,M,Gold,United States,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,USA,1000m,W,Bronze,United States,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,USA,1000m,W,Silver,United States,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,USA,1500m,W,Silver,United States,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,USA,500m,M,Bronze,United States,47.2711,11.4038
+1976,Innsbruck,Skating,Speed skating,USA,500m,W,Gold,United States,47.2711,11.4038
+1976,Innsbruck,Skiing,Alpine Skiing,USA,downhill,W,Bronze,United States,47.2711,11.4038
+1976,Innsbruck,Skiing,Cross Country S,USA,30km mass start,M,Silver,United States,47.2711,11.4038
+1980,Lake Placid,Luge,Luge,AUT,doubles,X,Bronze,Austria,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,AUT,downhill,M,Gold,Austria,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,AUT,downhill,M,Silver,Austria,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,AUT,downhill,W,Gold,Austria,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,AUT,giant slalom,M,Bronze,Austria,44.2856,-73.9833
+1980,Lake Placid,Skiing,Ski Jumping,AUT,K120 individual (90m),M,Silver,Austria,44.2856,-73.9833
+1980,Lake Placid,Skiing,Ski Jumping,AUT,K90 individual (70m),M,Gold,Austria,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,BUL,30km mass start,M,Bronze,Bulgaria,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,CAN,1000m,M,Silver,Canada,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,CAN,downhill,M,Bronze,Canada,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,FIN,10km,W,Bronze,Finland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,FIN,10km,W,Silver,Finland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,FIN,15km,M,Silver,Finland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,FIN,4x10km relay,M,Bronze,Finland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,FIN,50km,M,Silver,Finland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,FIN,5km,W,Silver,Finland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Nordic Combined,FIN,individual,M,Silver,Finland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Bronze,Finland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Gold,Finland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,FRA,giant slalom,W,Bronze,France,44.2856,-73.9833
+1980,Lake Placid,Biathlon,Biathlon,FRG,4x7.5km relay,M,Bronze,West Germany,44.2856,-73.9833
+1980,Lake Placid,Luge,Luge,FRG,singles,M,Bronze,West Germany,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,FRG,individual,W,Bronze,West Germany,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,FRG,giant slalom,W,Silver,West Germany,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,FRG,slalom,W,Silver,West Germany,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,GBR,individual,M,Gold,United Kingdom,44.2856,-73.9833
+1980,Lake Placid,Biathlon,Biathlon,GDR,10km,M,Gold,East Germany,44.2856,-73.9833
+1980,Lake Placid,Biathlon,Biathlon,GDR,20km,M,Bronze,East Germany,44.2856,-73.9833
+1980,Lake Placid,Biathlon,Biathlon,GDR,20km,M,Silver,East Germany,44.2856,-73.9833
+1980,Lake Placid,Biathlon,Biathlon,GDR,4x7.5km relay,M,Silver,East Germany,44.2856,-73.9833
+1980,Lake Placid,Bobsleigh,Bobsleigh,GDR,four-man,M,Bronze,East Germany,44.2856,-73.9833
+1980,Lake Placid,Bobsleigh,Bobsleigh,GDR,four-man,M,Gold,East Germany,44.2856,-73.9833
+1980,Lake Placid,Bobsleigh,Bobsleigh,GDR,two-man,M,Bronze,East Germany,44.2856,-73.9833
+1980,Lake Placid,Bobsleigh,Bobsleigh,GDR,two-man,M,Silver,East Germany,44.2856,-73.9833
+1980,Lake Placid,Luge,Luge,GDR,doubles,X,Gold,East Germany,44.2856,-73.9833
+1980,Lake Placid,Luge,Luge,GDR,singles,M,Gold,East Germany,44.2856,-73.9833
+1980,Lake Placid,Luge,Luge,GDR,singles,W,Silver,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,GDR,individual,M,Silver,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,GDR,individual,W,Gold,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,GDR,pairs,X,Bronze,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,GDR,1000m,W,Bronze,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,GDR,1500m,W,Bronze,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,GDR,3000m,W,Silver,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,GDR,500m,W,Gold,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,GDR,10km,W,Gold,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,GDR,4x5km relay,W,Gold,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skiing,Nordic Combined,GDR,individual,M,Bronze,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skiing,Nordic Combined,GDR,individual,M,Gold,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skiing,Ski Jumping,GDR,K90 individual (70m),M,Silver,East Germany,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,HUN,ice dancing,X,Silver,Hungary,44.2856,-73.9833
+1980,Lake Placid,Luge,Luge,ITA,doubles,X,Silver,Italy,44.2856,-73.9833
+1980,Lake Placid,Luge,Luge,ITA,singles,M,Silver,Italy,44.2856,-73.9833
+1980,Lake Placid,Skiing,Ski Jumping,JPN,K90 individual (70m),M,Silver,Japan,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,LIE,downhill,W,Silver,Liechtenstein,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,LIE,giant slalom,M,Silver,Liechtenstein,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,LIE,giant slalom,W,Gold,Liechtenstein,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,LIE,slalom,W,Gold,Liechtenstein,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NED,10000m,M,Silver,Netherlands,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NED,1500m,W,Gold,Netherlands,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NED,1500m,W,Silver,Netherlands,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NED,500m,M,Bronze,Netherlands,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NOR,10000m,M,Bronze,Norway,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NOR,1000m,M,Bronze,Norway,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NOR,1500m,M,Bronze,Norway,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NOR,1500m,M,Silver,Norway,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NOR,3000m,W,Gold,Norway,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NOR,5000m,M,Bronze,Norway,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,NOR,5000m,M,Silver,Norway,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,NOR,15km,M,Bronze,Norway,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,NOR,4x10km relay,M,Silver,Norway,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,NOR,4x5km relay,W,Bronze,Norway,44.2856,-73.9833
+1980,Lake Placid,Bobsleigh,Bobsleigh,SUI,four-man,M,Silver,Switzerland,44.2856,-73.9833
+1980,Lake Placid,Bobsleigh,Bobsleigh,SUI,two-man,M,Gold,Switzerland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,SUI,downhill,W,Bronze,Switzerland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,SUI,slalom,M,Bronze,Switzerland,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,SUI,slalom,W,Bronze,Switzerland,44.2856,-73.9833
+1980,Lake Placid,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Bronze,Sweden,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,SWE,giant slalom,M,Gold,Sweden,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,SWE,slalom,M,Gold,Sweden,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,SWE,15km,M,Gold,Sweden,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,TCH,5km,W,Bronze,Czechoslovakia,44.2856,-73.9833
+1980,Lake Placid,Biathlon,Biathlon,URS,10km,M,Bronze,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Biathlon,Biathlon,URS,10km,M,Silver,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Biathlon,Biathlon,URS,20km,M,Gold,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Biathlon,Biathlon,URS,4x7.5km relay,M,Gold,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Ice Hockey,Ice Hockey,URS,ice hockey,M,Silver,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Luge,Luge,URS,singles,W,Bronze,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Luge,Luge,URS,singles,W,Gold,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,URS,ice dancing,X,Bronze,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,URS,ice dancing,X,Gold,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,URS,pairs,X,Gold,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,URS,pairs,X,Silver,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,URS,1000m,M,Bronze,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,URS,1000m,W,Gold,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,URS,500m,M,Silver,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,URS,500m,W,Bronze,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,URS,30km mass start,M,Gold,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,URS,30km mass start,M,Silver,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,URS,4x10km relay,M,Gold,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,URS,4x5km relay,W,Silver,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,URS,50km,M,Bronze,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,URS,50km,M,Gold,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Skiing,Cross Country S,URS,5km,W,Gold,Soviet Union,44.2856,-73.9833
+1980,Lake Placid,Ice Hockey,Ice Hockey,USA,ice hockey,M,Gold,United States,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,USA,individual,M,Bronze,United States,44.2856,-73.9833
+1980,Lake Placid,Skating,Figure skating,USA,individual,W,Silver,United States,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,USA,10000m,M,Gold,United States,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,USA,1000m,M,Gold,United States,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,USA,1000m,W,Silver,United States,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,USA,1500m,M,Gold,United States,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,USA,3000m,W,Bronze,United States,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,USA,5000m,M,Gold,United States,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,USA,500m,M,Gold,United States,44.2856,-73.9833
+1980,Lake Placid,Skating,Speed skating,USA,500m,W,Silver,United States,44.2856,-73.9833
+1980,Lake Placid,Skiing,Alpine Skiing,USA,slalom,M,Silver,United States,44.2856,-73.9833
+1984,Sarajevo,Skiing,Alpine Skiing,AUT,downhill,M,Bronze,Austria,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,CAN,individual,M,Silver,Canada,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,CAN,1000m,M,Gold,Canada,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,CAN,1500m,M,Gold,Canada,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,CAN,500m,M,Bronze,Canada,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,FIN,10km,W,Gold,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,FIN,15km,M,Bronze,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,FIN,15km,M,Silver,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,FIN,20km,W,Gold,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,FIN,4x10km relay,M,Bronze,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,FIN,4x5km relay,W,Bronze,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,FIN,50km,M,Bronze,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,FIN,5km,W,Gold,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Nordic Combined,FIN,individual,M,Bronze,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Nordic Combined,FIN,individual,M,Silver,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Gold,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Bronze,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Silver,Finland,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,FRA,giant slalom,W,Bronze,France,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,FRA,slalom,M,Bronze,France,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,FRA,slalom,W,Silver,France,43.8634,18.4132
+1984,Sarajevo,Biathlon,Biathlon,FRG,10km,M,Silver,West Germany,43.8634,18.4132
+1984,Sarajevo,Biathlon,Biathlon,FRG,20km,M,Gold,West Germany,43.8634,18.4132
+1984,Sarajevo,Biathlon,Biathlon,FRG,4x7.5km relay,M,Bronze,West Germany,43.8634,18.4132
+1984,Sarajevo,Luge,Luge,FRG,doubles,X,Gold,West Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,GBR,ice dancing,X,Gold,United Kingdom,43.8634,18.4132
+1984,Sarajevo,Biathlon,Biathlon,GDR,10km,M,Bronze,East Germany,43.8634,18.4132
+1984,Sarajevo,Biathlon,Biathlon,GDR,20km,M,Silver,East Germany,43.8634,18.4132
+1984,Sarajevo,Bobsleigh,Bobsleigh,GDR,four-man,M,Gold,East Germany,43.8634,18.4132
+1984,Sarajevo,Bobsleigh,Bobsleigh,GDR,four-man,M,Silver,East Germany,43.8634,18.4132
+1984,Sarajevo,Bobsleigh,Bobsleigh,GDR,two-man,M,Gold,East Germany,43.8634,18.4132
+1984,Sarajevo,Bobsleigh,Bobsleigh,GDR,two-man,M,Silver,East Germany,43.8634,18.4132
+1984,Sarajevo,Luge,Luge,GDR,doubles,X,Bronze,East Germany,43.8634,18.4132
+1984,Sarajevo,Luge,Luge,GDR,singles,W,Bronze,East Germany,43.8634,18.4132
+1984,Sarajevo,Luge,Luge,GDR,singles,W,Gold,East Germany,43.8634,18.4132
+1984,Sarajevo,Luge,Luge,GDR,singles,W,Silver,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,GDR,individual,W,Gold,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,10000m,M,Bronze,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,1000m,W,Gold,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,1000m,W,Silver,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,1500m,W,Gold,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,1500m,W,Silver,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,3000m,W,Bronze,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,3000m,W,Gold,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,3000m,W,Silver,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,5000m,M,Bronze,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,500m,W,Gold,East Germany,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,GDR,500m,W,Silver,East Germany,43.8634,18.4132
+1984,Sarajevo,Skiing,Ski Jumping,GDR,K120 individual (90m),M,Silver,East Germany,43.8634,18.4132
+1984,Sarajevo,Skiing,Ski Jumping,GDR,K90 individual (70m),M,Gold,East Germany,43.8634,18.4132
+1984,Sarajevo,Luge,Luge,ITA,singles,M,Gold,Italy,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,ITA,slalom,W,Gold,Italy,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,JPN,500m,M,Silver,Japan,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,LIE,giant slalom,M,Bronze,Liechtenstein,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,LIE,slalom,W,Bronze,Liechtenstein,43.8634,18.4132
+1984,Sarajevo,Biathlon,Biathlon,NOR,10km,M,Gold,Norway,43.8634,18.4132
+1984,Sarajevo,Biathlon,Biathlon,NOR,20km,M,Bronze,Norway,43.8634,18.4132
+1984,Sarajevo,Biathlon,Biathlon,NOR,4x7.5km relay,M,Silver,Norway,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,NOR,1000m,M,Bronze,Norway,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,NOR,10km,W,Bronze,Norway,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,NOR,20km,W,Bronze,Norway,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,NOR,4x5km relay,W,Gold,Norway,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,NOR,5km,W,Silver,Norway,43.8634,18.4132
+1984,Sarajevo,Skiing,Nordic Combined,NOR,individual,M,Gold,Norway,43.8634,18.4132
+1984,Sarajevo,Bobsleigh,Bobsleigh,SUI,four-man,M,Bronze,Switzerland,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,SUI,downhill,M,Silver,Switzerland,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,SUI,downhill,W,Gold,Switzerland,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,SUI,downhill,W,Silver,Switzerland,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,SUI,giant slalom,M,Gold,Switzerland,43.8634,18.4132
+1984,Sarajevo,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Bronze,Sweden,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,SWE,10000m,M,Silver,Sweden,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,SWE,5000m,M,Gold,Sweden,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,SWE,15km,M,Gold,Sweden,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,SWE,30km mass start,M,Bronze,Sweden,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,SWE,4x10km relay,M,Gold,Sweden,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,SWE,50km,M,Gold,Sweden,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,SWE,50km,M,Silver,Sweden,43.8634,18.4132
+1984,Sarajevo,Ice Hockey,Ice Hockey,TCH,ice hockey,M,Silver,Czechoslovakia,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,TCH,individual,M,Bronze,Czechoslovakia,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,TCH,downhill,W,Bronze,Czechoslovakia,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,TCH,4x5km relay,W,Silver,Czechoslovakia,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,TCH,5km,W,Bronze,Czechoslovakia,43.8634,18.4132
+1984,Sarajevo,Skiing,Ski Jumping,TCH,K120 individual (90m),M,Bronze,Czechoslovakia,43.8634,18.4132
+1984,Sarajevo,Biathlon,Biathlon,URS,4x7.5km relay,M,Gold,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Bobsleigh,Bobsleigh,URS,two-man,M,Bronze,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Ice Hockey,Ice Hockey,URS,ice hockey,M,Gold,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Luge,Luge,URS,doubles,X,Silver,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Luge,Luge,URS,singles,M,Bronze,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Luge,Luge,URS,singles,M,Silver,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,URS,ice dancing,X,Bronze,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,URS,ice dancing,X,Silver,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,URS,individual,W,Bronze,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,URS,pairs,X,Bronze,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,URS,pairs,X,Gold,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,URS,10000m,M,Gold,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,URS,1000m,M,Silver,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,URS,1000m,W,Bronze,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,URS,1500m,M,Bronze,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,URS,1500m,M,Silver,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,URS,1500m,W,Bronze,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,URS,5000m,M,Silver,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,URS,500m,M,Gold,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Speed skating,URS,500m,W,Bronze,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,URS,10km,W,Silver,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,URS,20km,W,Silver,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,URS,30km mass start,M,Gold,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,URS,30km mass start,M,Silver,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skiing,Cross Country S,URS,4x10km relay,M,Silver,Soviet Union,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,USA,individual,M,Gold,United States,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,USA,individual,W,Silver,United States,43.8634,18.4132
+1984,Sarajevo,Skating,Figure skating,USA,pairs,X,Silver,United States,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,USA,downhill,M,Gold,United States,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,USA,giant slalom,W,Gold,United States,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,USA,giant slalom,W,Silver,United States,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,USA,slalom,M,Gold,United States,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,USA,slalom,M,Silver,United States,43.8634,18.4132
+1984,Sarajevo,Skiing,Alpine Skiing,YUG,giant slalom,M,Silver,Yugoslavia,43.8634,18.4132
+1988,Calgary,Skating,Speed skating,AUT,10000m,M,Silver,Austria,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,AUT,1500m,M,Bronze,Austria,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,AUT,alpine combined,M,Gold,Austria,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,AUT,alpine combined,M,Silver,Austria,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,AUT,alpine combined,W,Gold,Austria,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,AUT,giant slalom,M,Silver,Austria,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,AUT,super-G,M,Silver,Austria,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,AUT,super-G,W,Gold,Austria,51.0318,-114.0824
+1988,Calgary,Skiing,Nordic Combined,AUT,individual,M,Silver,Austria,51.0318,-114.0824
+1988,Calgary,Skiing,Nordic Combined,AUT,Team,M,Bronze,Austria,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,CAN,ice dancing,X,Bronze,Canada,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,CAN,individual,M,Silver,Canada,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,CAN,individual,W,Silver,Canada,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,CAN,downhill,W,Bronze,Canada,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,CAN,super-G,W,Bronze,Canada,51.0318,-114.0824
+1988,Calgary,Ice Hockey,Ice Hockey,FIN,ice hockey,M,Silver,Finland,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,FIN,10km,W,Bronze,Finland,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,FIN,4x5km relay,W,Bronze,Finland,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,FIN,5km,W,Gold,Finland,51.0318,-114.0824
+1988,Calgary,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Gold,Finland,51.0318,-114.0824
+1988,Calgary,Skiing,Ski Jumping,FIN,K120 team (90m),M,Gold,Finland,51.0318,-114.0824
+1988,Calgary,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Gold,Finland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,FRA,downhill,M,Bronze,France,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,FRA,super-G,M,Gold,France,51.0318,-114.0824
+1988,Calgary,Biathlon,Biathlon,FRG,4x7.5km relay,M,Silver,West Germany,51.0318,-114.0824
+1988,Calgary,Luge,Luge,FRG,doubles,X,Bronze,West Germany,51.0318,-114.0824
+1988,Calgary,Luge,Luge,FRG,singles,M,Silver,West Germany,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,FRG,downhill,W,Gold,West Germany,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,FRG,giant slalom,W,Silver,West Germany,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,FRG,slalom,M,Silver,West Germany,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,FRG,slalom,W,Bronze,West Germany,51.0318,-114.0824
+1988,Calgary,Skiing,Nordic Combined,FRG,Team,M,Gold,West Germany,51.0318,-114.0824
+1988,Calgary,Biathlon,Biathlon,GDR,10km,M,Gold,East Germany,51.0318,-114.0824
+1988,Calgary,Biathlon,Biathlon,GDR,20km,M,Gold,East Germany,51.0318,-114.0824
+1988,Calgary,Bobsleigh,Bobsleigh,GDR,four-man,M,Silver,East Germany,51.0318,-114.0824
+1988,Calgary,Bobsleigh,Bobsleigh,GDR,two-man,M,Bronze,East Germany,51.0318,-114.0824
+1988,Calgary,Bobsleigh,Bobsleigh,GDR,two-man,M,Silver,East Germany,51.0318,-114.0824
+1988,Calgary,Luge,Luge,GDR,doubles,X,Gold,East Germany,51.0318,-114.0824
+1988,Calgary,Luge,Luge,GDR,doubles,X,Silver,East Germany,51.0318,-114.0824
+1988,Calgary,Luge,Luge,GDR,singles,M,Gold,East Germany,51.0318,-114.0824
+1988,Calgary,Luge,Luge,GDR,singles,W,Bronze,East Germany,51.0318,-114.0824
+1988,Calgary,Luge,Luge,GDR,singles,W,Gold,East Germany,51.0318,-114.0824
+1988,Calgary,Luge,Luge,GDR,singles,W,Silver,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,GDR,individual,W,Gold,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,1000m,M,Silver,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,1000m,W,Gold,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,1000m,W,Silver,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,1500m,M,Gold,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,1500m,W,Bronze,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,1500m,W,Silver,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,3000m,W,Bronze,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,3000m,W,Silver,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,5000m,W,Bronze,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,5000m,W,Silver,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,500m,M,Gold,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,500m,W,Bronze,East Germany,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,GDR,500m,W,Silver,East Germany,51.0318,-114.0824
+1988,Calgary,Biathlon,Biathlon,ITA,20km,M,Bronze,Italy,51.0318,-114.0824
+1988,Calgary,Biathlon,Biathlon,ITA,4x7.5km relay,M,Bronze,Italy,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,ITA,giant slalom,M,Gold,Italy,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,ITA,slalom,M,Gold,Italy,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,ITA,50km,M,Silver,Italy,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,JPN,500m,M,Bronze,Japan,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,LIE,slalom,M,Bronze,Liechtenstein,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,NED,10000m,M,Bronze,Netherlands,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,NED,1500m,W,Gold,Netherlands,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,NED,3000m,W,Gold,Netherlands,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,NED,5000m,M,Bronze,Netherlands,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,NED,5000m,M,Silver,Netherlands,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,NED,5000m,W,Gold,Netherlands,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,NED,500m,M,Silver,Netherlands,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,NOR,15km,M,Silver,Norway,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,NOR,30km mass start,M,Bronze,Norway,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,NOR,4x5km relay,W,Silver,Norway,51.0318,-114.0824
+1988,Calgary,Skiing,Ski Jumping,NOR,K120 individual (90m),M,Silver,Norway,51.0318,-114.0824
+1988,Calgary,Skiing,Ski Jumping,NOR,K120 team (90m),M,Bronze,Norway,51.0318,-114.0824
+1988,Calgary,Bobsleigh,Bobsleigh,SUI,four-man,M,Gold,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,alpine combined,M,Bronze,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,alpine combined,W,Bronze,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,alpine combined,W,Silver,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,downhill,M,Gold,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,downhill,M,Silver,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,downhill,W,Silver,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,giant slalom,M,Bronze,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,giant slalom,W,Bronze,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,giant slalom,W,Gold,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,slalom,W,Gold,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SUI,super-G,W,Silver,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,SUI,50km,M,Bronze,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Nordic Combined,SUI,individual,M,Gold,Switzerland,51.0318,-114.0824
+1988,Calgary,Skiing,Nordic Combined,SUI,Team,M,Silver,Switzerland,51.0318,-114.0824
+1988,Calgary,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Bronze,Sweden,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,SWE,10000m,M,Gold,Sweden,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,SWE,5000m,M,Gold,Sweden,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,SWE,super-G,M,Bronze,Sweden,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,SWE,4x10km relay,M,Gold,Sweden,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,SWE,50km,M,Gold,Sweden,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,TCH,4x10km relay,M,Bronze,Czechoslovakia,51.0318,-114.0824
+1988,Calgary,Skiing,Ski Jumping,TCH,K90 individual (70m),M,Bronze,Czechoslovakia,51.0318,-114.0824
+1988,Calgary,Skiing,Ski Jumping,TCH,K90 individual (70m),M,Silver,Czechoslovakia,51.0318,-114.0824
+1988,Calgary,Biathlon,Biathlon,URS,10km,M,Bronze,Soviet Union,51.0318,-114.0824
+1988,Calgary,Biathlon,Biathlon,URS,10km,M,Silver,Soviet Union,51.0318,-114.0824
+1988,Calgary,Biathlon,Biathlon,URS,20km,M,Silver,Soviet Union,51.0318,-114.0824
+1988,Calgary,Biathlon,Biathlon,URS,4x7.5km relay,M,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Bobsleigh,Bobsleigh,URS,four-man,M,Bronze,Soviet Union,51.0318,-114.0824
+1988,Calgary,Bobsleigh,Bobsleigh,URS,two-man,M,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Ice Hockey,Ice Hockey,URS,ice hockey,M,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Luge,Luge,URS,singles,M,Bronze,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,URS,ice dancing,X,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,URS,ice dancing,X,Silver,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,URS,individual,M,Bronze,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,URS,pairs,X,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,URS,pairs,X,Silver,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,URS,1000m,M,Bronze,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,URS,1000m,M,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,10km,W,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,10km,W,Silver,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,15km,M,Bronze,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,15km,M,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,20km,W,Bronze,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,20km,W,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,20km,W,Silver,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,30km mass start,M,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,30km mass start,M,Silver,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,4x10km relay,M,Silver,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,4x5km relay,W,Gold,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,5km,W,Bronze,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Cross Country S,URS,5km,W,Silver,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skiing,Nordic Combined,URS,individual,M,Bronze,Soviet Union,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,USA,individual,M,Gold,United States,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,USA,individual,W,Bronze,United States,51.0318,-114.0824
+1988,Calgary,Skating,Figure skating,USA,pairs,X,Bronze,United States,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,USA,1000m,W,Bronze,United States,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,USA,1500m,M,Silver,United States,51.0318,-114.0824
+1988,Calgary,Skating,Speed skating,USA,500m,W,Gold,United States,51.0318,-114.0824
+1988,Calgary,Skiing,Alpine Skiing,YUG,slalom,W,Silver,Yugoslavia,51.0318,-114.0824
+1988,Calgary,Skiing,Ski Jumping,YUG,K120 individual (90m),M,Bronze,Yugoslavia,51.0318,-114.0824
+1988,Calgary,Skiing,Ski Jumping,YUG,K120 team (90m),M,Silver,Yugoslavia,51.0318,-114.0824
+1992,Albertville,Bobsleigh,Bobsleigh,AUT,four-man,M,Gold,Austria,45.6634,6.3738
+1992,Albertville,Luge,Luge,AUT,singles,M,Bronze,Austria,45.6634,6.3738
+1992,Albertville,Luge,Luge,AUT,singles,M,Silver,Austria,45.6634,6.3738
+1992,Albertville,Luge,Luge,AUT,singles,W,Gold,Austria,45.6634,6.3738
+1992,Albertville,Luge,Luge,AUT,singles,W,Silver,Austria,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,AUT,3000m,W,Bronze,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,AUT,alpine combined,W,Gold,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,AUT,alpine combined,W,Silver,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,AUT,downhill,M,Bronze,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,AUT,downhill,M,Gold,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,AUT,downhill,W,Bronze,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,AUT,giant slalom,W,Silver,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,AUT,slalom,M,Bronze,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,AUT,slalom,W,Gold,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Nordic Combined,AUT,individual,M,Bronze,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Nordic Combined,AUT,Team,M,Bronze,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Ski Jumping,AUT,K120 individual (90m),M,Bronze,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Ski Jumping,AUT,K120 individual (90m),M,Silver,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Ski Jumping,AUT,K120 team (90m),M,Silver,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Ski Jumping,AUT,K90 individual (70m),M,Gold,Austria,45.6634,6.3738
+1992,Albertville,Skiing,Ski Jumping,AUT,K90 individual (70m),M,Silver,Austria,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,CAN,15km,W,Bronze,Canada,45.6634,6.3738
+1992,Albertville,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Silver,Canada,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,CAN,pairs,X,Bronze,Canada,45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,CAN,1000m,M,Silver,Canada,45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,CAN,3000m relay,W,Gold,Canada,45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,CAN,5000m relay,M,Silver,Canada,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,CAN,downhill,W,Gold,Canada,45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,CHN,500m,W,Silver,China,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,CHN,1000m,W,Silver,China,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,CHN,500m,W,Silver,China,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,ESP,slalom,W,Bronze,Spain,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,EUN,15km,W,Silver,Unified Team,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,EUN,20km,M,Gold,Unified Team,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,EUN,3x7.5km relay,W,Bronze,Unified Team,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,EUN,4x7.5km relay,M,Silver,Unified Team,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,EUN,7.5km,W,Bronze,Unified Team,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,EUN,7.5km,W,Gold,Unified Team,45.6634,6.3738
+1992,Albertville,Ice Hockey,Ice Hockey,EUN,ice hockey,M,Gold,Unified Team,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,EUN,ice dancing,X,Bronze,Unified Team,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,EUN,ice dancing,X,Gold,Unified Team,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,EUN,individual,M,Gold,Unified Team,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,EUN,pairs,X,Gold,Unified Team,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,EUN,pairs,X,Silver,Unified Team,45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,EUN,3000m relay,W,Bronze,Unified Team,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,EUN,15km mass start,W,Bronze,Unified Team,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,EUN,15km mass start,W,Gold,Unified Team,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,EUN,30km,W,Bronze,Unified Team,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,EUN,30km,W,Silver,Unified Team,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,EUN,4x5km relay,W,Gold,Unified Team,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,EUN,5km,W,Bronze,Unified Team,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,EUN,5km,W,Silver,Unified Team,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,EUN,Combined 5km + 10km pursuit,W,Bronze,Unified Team,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,EUN,Combined 5km + 10km pursuit,W,Gold,Unified Team,45.6634,6.3738
+1992,Albertville,Skiing,Freestyle Ski.,EUN,moguls,W,Silver,Unified Team,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,FIN,10km,M,Bronze,Finland,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,FIN,15km mass start,W,Silver,Finland,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,FIN,4x10km relay,M,Bronze,Finland,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,FIN,5km,W,Gold,Finland,45.6634,6.3738
+1992,Albertville,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Gold,Finland,45.6634,6.3738
+1992,Albertville,Skiing,Ski Jumping,FIN,K120 team (90m),M,Gold,Finland,45.6634,6.3738
+1992,Albertville,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Bronze,Finland,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,FRA,3x7.5km relay,W,Gold,France,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,FRA,ice dancing,X,Silver,France,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,FRA,alpine combined,W,Bronze,France,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,FRA,downhill,M,Silver,France,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,FRA,super-G,W,Silver,France,45.6634,6.3738
+1992,Albertville,Skiing,Freestyle Ski.,FRA,moguls,M,Gold,France,45.6634,6.3738
+1992,Albertville,Skiing,Freestyle Ski.,FRA,moguls,M,Silver,France,45.6634,6.3738
+1992,Albertville,Skiing,Nordic Combined,FRA,individual,M,Gold,France,45.6634,6.3738
+1992,Albertville,Skiing,Nordic Combined,FRA,individual,M,Silver,France,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,GER,10km,M,Gold,Germany,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,GER,10km,M,Silver,Germany,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,GER,15km,W,Gold,Germany,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,GER,20km,M,Silver,Germany,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,GER,3x7.5km relay,W,Silver,Germany,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,GER,4x7.5km relay,M,Gold,Germany,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,GER,7.5km,W,Silver,Germany,45.6634,6.3738
+1992,Albertville,Bobsleigh,Bobsleigh,GER,four-man,M,Silver,Germany,45.6634,6.3738
+1992,Albertville,Bobsleigh,Bobsleigh,GER,two-man,M,Bronze,Germany,45.6634,6.3738
+1992,Albertville,Bobsleigh,Bobsleigh,GER,two-man,M,Silver,Germany,45.6634,6.3738
+1992,Albertville,Luge,Luge,GER,doubles,X,Gold,Germany,45.6634,6.3738
+1992,Albertville,Luge,Luge,GER,doubles,X,Silver,Germany,45.6634,6.3738
+1992,Albertville,Luge,Luge,GER,singles,M,Gold,Germany,45.6634,6.3738
+1992,Albertville,Luge,Luge,GER,singles,W,Bronze,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,1000m,M,Gold,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,1000m,W,Bronze,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,1500m,W,Gold,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,1500m,W,Silver,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,3000m,W,Gold,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,3000m,W,Silver,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,5000m,W,Bronze,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,5000m,W,Gold,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,5000m,W,Silver,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,500m,M,Gold,Germany,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,GER,500m,W,Bronze,Germany,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,GER,super-G,W,Bronze,Germany,45.6634,6.3738
+1992,Albertville,Luge,Luge,ITA,doubles,X,Bronze,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,ITA,alpine combined,M,Gold,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,ITA,alpine combined,M,Silver,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,ITA,giant slalom,M,Gold,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,ITA,slalom,M,Silver,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,ITA,super-G,W,Gold,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,ITA,10km pursuit,M,Silver,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,ITA,30km,W,Gold,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,ITA,4x10km relay,M,Silver,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,ITA,4x5km relay,W,Bronze,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,ITA,50km,M,Bronze,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,ITA,50km,M,Silver,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,ITA,Combined 10km + 15km pursuit,M,Bronze,Italy,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,ITA,Combined 5km + 10km pursuit,W,Silver,Italy,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,JPN,individual,W,Silver,Japan,45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,JPN,5000m relay,M,Bronze,Japan,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,JPN,1000m,M,Bronze,Japan,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,JPN,1500m,W,Bronze,Japan,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,JPN,500m,M,Bronze,Japan,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,JPN,500m,M,Silver,Japan,45.6634,6.3738
+1992,Albertville,Skiing,Nordic Combined,JPN,Team,M,Gold,Japan,45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,KOR,1000m,M,Bronze,"Korea, South",45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,KOR,1000m,M,Gold,"Korea, South",45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,KOR,5000m relay,M,Gold,"Korea, South",45.6634,6.3738
+1992,Albertville,Skating,Speed skating,KOR,1000m,M,Silver,"Korea, South",45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,LUX,giant slalom,M,Silver,Luxembourg,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,LUX,super-G,M,Silver,Luxembourg,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,NED,10000m,M,Gold,Netherlands,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,NED,1500m,M,Bronze,Netherlands,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,NED,5000m,M,Bronze,Netherlands,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,NED,5000m,M,Silver,Netherlands,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,NOR,10000m,M,Bronze,Norway,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,NOR,10000m,M,Silver,Norway,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,NOR,1500m,M,Gold,Norway,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,NOR,1500m,M,Silver,Norway,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,NOR,5000m,M,Gold,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,NOR,giant slalom,M,Bronze,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,NOR,slalom,M,Gold,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,NOR,super-G,M,Bronze,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,NOR,super-G,M,Gold,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,NOR,10km pursuit,M,Gold,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,NOR,30km mass start,M,Bronze,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,NOR,30km mass start,M,Gold,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,NOR,30km mass start,M,Silver,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,NOR,4x10km relay,M,Gold,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,NOR,4x5km relay,W,Silver,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,NOR,50km,M,Gold,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,NOR,Combined 10km + 15km pursuit,M,Gold,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,NOR,Combined 10km + 15km pursuit,M,Silver,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Freestyle Ski.,NOR,moguls,W,Bronze,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Nordic Combined,NOR,Team,M,Silver,Norway,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,NZL,slalom,W,Silver,New Zealand,45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,PRK,500m,W,Bronze,"Korea, North",45.6634,6.3738
+1992,Albertville,Bobsleigh,Bobsleigh,SUI,four-man,M,Bronze,Switzerland,45.6634,6.3738
+1992,Albertville,Bobsleigh,Bobsleigh,SUI,two-man,M,Gold,Switzerland,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,SUI,alpine combined,M,Bronze,Switzerland,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,SWE,20km,M,Bronze,Sweden,45.6634,6.3738
+1992,Albertville,Biathlon,Biathlon,SWE,4x7.5km relay,M,Bronze,Sweden,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,SWE,giant slalom,W,Gold,Sweden,45.6634,6.3738
+1992,Albertville,Skiing,Cross Country S,SWE,10km pursuit,M,Bronze,Sweden,45.6634,6.3738
+1992,Albertville,Ice Hockey,Ice Hockey,TCH,ice hockey,M,Bronze,Czechoslovakia,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,TCH,individual,M,Bronze,Czechoslovakia,45.6634,6.3738
+1992,Albertville,Skiing,Ski Jumping,TCH,K120 team (90m),M,Bronze,Czechoslovakia,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,USA,individual,M,Silver,United States,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,USA,individual,W,Bronze,United States,45.6634,6.3738
+1992,Albertville,Skating,Figure skating,USA,individual,W,Gold,United States,45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,USA,3000m relay,W,Silver,United States,45.6634,6.3738
+1992,Albertville,Skating,Short Track S.,USA,500m,W,Gold,United States,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,USA,1000m,W,Gold,United States,45.6634,6.3738
+1992,Albertville,Skating,Speed skating,USA,500m,W,Gold,United States,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,USA,downhill,W,Silver,United States,45.6634,6.3738
+1992,Albertville,Skiing,Alpine Skiing,USA,giant slalom,W,Silver,United States,45.6634,6.3738
+1992,Albertville,Skiing,Freestyle Ski.,USA,moguls,M,Bronze,United States,45.6634,6.3738
+1992,Albertville,Skiing,Freestyle Ski.,USA,moguls,W,Gold,United States,45.6634,6.3738
+1994,Lillehammer,Skating,Short Track S.,AUS,5000m relay,M,Bronze,Australia,61.1232,10.4741
+1994,Lillehammer,Luge,Luge,AUT,singles,M,Silver,Austria,61.1232,10.4741
+1994,Lillehammer,Luge,Luge,AUT,singles,W,Bronze,Austria,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,AUT,1500m,W,Gold,Austria,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,AUT,3000m,W,Silver,Austria,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,AUT,giant slalom,M,Bronze,Austria,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,AUT,slalom,M,Gold,Austria,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,AUT,slalom,W,Silver,Austria,61.1232,10.4741
+1994,Lillehammer,Skiing,Ski Jumping,AUT,K120 individual (90m),M,Bronze,Austria,61.1232,10.4741
+1994,Lillehammer,Skiing,Ski Jumping,AUT,K120 team (90m),M,Bronze,Austria,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,BLR,7.5km,W,Silver,Belarus,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,BLR,1000m,M,Silver,Belarus,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,CAN,15km,W,Gold,Canada,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,CAN,7.5km,W,Gold,Canada,61.1232,10.4741
+1994,Lillehammer,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Silver,Canada,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,CAN,individual,M,Silver,Canada,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,CAN,pairs,X,Bronze,Canada,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,CAN,1000m,M,Bronze,Canada,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,CAN,1000m,W,Silver,Canada,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,CAN,3000m relay,W,Silver,Canada,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,CAN,500m,W,Silver,Canada,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,CAN,downhill,M,Bronze,Canada,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,CAN,aerials,M,Bronze,Canada,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,CAN,aerials,M,Silver,Canada,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,CAN,moguls,M,Gold,Canada,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,CHN,individual,W,Bronze,China,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,CHN,500m,W,Silver,China,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,CHN,1000m,W,Bronze,China,61.1232,10.4741
+1994,Lillehammer,Ice Hockey,Ice Hockey,FIN,ice hockey,M,Bronze,Finland,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,FIN,30km,W,Bronze,Finland,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,FIN,30km mass start,M,Bronze,Finland,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,FIN,4x10km relay,M,Bronze,Finland,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,FIN,50km,M,Silver,Finland,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,FIN,5km,W,Bronze,Finland,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,FRA,15km,W,Silver,France,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,FRA,4x7.5km relay,M,Bronze,France,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,FRA,4x7.5km relay,W,Bronze,France,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,FRA,individual,M,Bronze,France,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,FRA,moguls,M,Bronze,France,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,GBR,ice dancing,X,Bronze,United Kingdom,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,GBR,500m,M,Bronze,United Kingdom,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,GER,10km,M,Silver,Germany,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,GER,15km,W,Bronze,Germany,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,GER,20km,M,Bronze,Germany,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,GER,20km,M,Silver,Germany,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,GER,4x7.5km relay,M,Gold,Germany,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,GER,4x7.5km relay,W,Silver,Germany,61.1232,10.4741
+1994,Lillehammer,Bobsleigh,Bobsleigh,GER,four-man,M,Bronze,Germany,61.1232,10.4741
+1994,Lillehammer,Bobsleigh,Bobsleigh,GER,four-man,M,Gold,Germany,61.1232,10.4741
+1994,Lillehammer,Luge,Luge,GER,doubles,X,Bronze,Germany,61.1232,10.4741
+1994,Lillehammer,Luge,Luge,GER,singles,M,Gold,Germany,61.1232,10.4741
+1994,Lillehammer,Luge,Luge,GER,singles,W,Silver,Germany,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,GER,1000m,W,Silver,Germany,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,GER,1500m,W,Bronze,Germany,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,GER,3000m,W,Bronze,Germany,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,GER,5000m,W,Gold,Germany,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,GER,5000m,W,Silver,Germany,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,GER,500m,W,Bronze,Germany,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,GER,downhill,W,Gold,Germany,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,GER,giant slalom,M,Gold,Germany,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,GER,giant slalom,W,Silver,Germany,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,GER,super-G,M,Gold,Germany,61.1232,10.4741
+1994,Lillehammer,Skiing,Ski Jumping,GER,K120 individual (90m),M,Gold,Germany,61.1232,10.4741
+1994,Lillehammer,Skiing,Ski Jumping,GER,K120 team (90m),M,Gold,Germany,61.1232,10.4741
+1994,Lillehammer,Skiing,Ski Jumping,GER,K90 individual (70m),M,Bronze,Germany,61.1232,10.4741
+1994,Lillehammer,Bobsleigh,Bobsleigh,ITA,two-man,M,Bronze,Italy,61.1232,10.4741
+1994,Lillehammer,Luge,Luge,ITA,doubles,X,Gold,Italy,61.1232,10.4741
+1994,Lillehammer,Luge,Luge,ITA,doubles,X,Silver,Italy,61.1232,10.4741
+1994,Lillehammer,Luge,Luge,ITA,singles,M,Bronze,Italy,61.1232,10.4741
+1994,Lillehammer,Luge,Luge,ITA,singles,W,Gold,Italy,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,ITA,5000m relay,M,Gold,Italy,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,ITA,500m,M,Silver,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,ITA,downhill,W,Bronze,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,ITA,giant slalom,W,Gold,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,ITA,slalom,M,Silver,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,ITA,super-G,W,Bronze,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,ITA,10km pursuit,M,Bronze,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,ITA,15km mass start,W,Gold,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,ITA,30km,W,Gold,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,ITA,4x10km relay,M,Gold,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,ITA,4x5km relay,W,Bronze,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,ITA,5km,W,Silver,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,ITA,Combined 10km + 15km pursuit,M,Bronze,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,ITA,Combined 5km + 10km pursuit,W,Bronze,Italy,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,ITA,Combined 5km + 10km pursuit,W,Silver,Italy,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,JPN,5000m,W,Bronze,Japan,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,JPN,500m,M,Bronze,Japan,61.1232,10.4741
+1994,Lillehammer,Skiing,Nordic Combined,JPN,individual,M,Silver,Japan,61.1232,10.4741
+1994,Lillehammer,Skiing,Nordic Combined,JPN,Team,M,Gold,Japan,61.1232,10.4741
+1994,Lillehammer,Skiing,Ski Jumping,JPN,K120 team (90m),M,Silver,Japan,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,KAZ,10km pursuit,M,Silver,Kazakhstan,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,KAZ,50km,M,Gold,Kazakhstan,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,KAZ,Combined 10km + 15km pursuit,M,Silver,Kazakhstan,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,KOR,1000m,M,Gold,"Korea, South",61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,KOR,1000m,M,Silver,"Korea, South",61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,KOR,1000m,W,Bronze,"Korea, South",61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,KOR,1000m,W,Gold,"Korea, South",61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,KOR,3000m relay,W,Gold,"Korea, South",61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,KOR,500m,M,Gold,"Korea, South",61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,NED,10000m,M,Bronze,Netherlands,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,NED,1500m,M,Bronze,Netherlands,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,NED,1500m,M,Silver,Netherlands,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,NED,5000m,M,Bronze,Netherlands,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,NOR,10000m,M,Gold,Norway,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,NOR,10000m,M,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,NOR,1500m,M,Gold,Norway,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,NOR,5000m,M,Gold,Norway,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,NOR,5000m,M,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,NOR,alpine combined,M,Bronze,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,NOR,alpine combined,M,Gold,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,NOR,alpine combined,M,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,NOR,downhill,M,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,NOR,super-G,M,Bronze,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,NOR,10km pursuit,M,Gold,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,NOR,30km,W,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,NOR,30km mass start,M,Gold,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,NOR,30km mass start,M,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,NOR,4x10km relay,M,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,NOR,4x5km relay,W,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,NOR,50km,M,Bronze,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,NOR,Combined 10km + 15km pursuit,M,Gold,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,NOR,aerials,W,Bronze,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,NOR,moguls,W,Gold,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Nordic Combined,NOR,individual,M,Bronze,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Nordic Combined,NOR,individual,M,Gold,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Nordic Combined,NOR,Team,M,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Ski Jumping,NOR,K120 individual (90m),M,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Gold,Norway,61.1232,10.4741
+1994,Lillehammer,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Silver,Norway,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,RUS,10km,M,Bronze,Russia,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,RUS,10km,M,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,RUS,20km,M,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,RUS,4x7.5km relay,M,Silver,Russia,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,RUS,4x7.5km relay,W,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,RUS,ice dancing,X,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,RUS,ice dancing,X,Silver,Russia,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,RUS,individual,M,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,RUS,pairs,X,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,RUS,pairs,X,Silver,Russia,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,RUS,1000m,M,Bronze,Russia,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,RUS,1500m,W,Silver,Russia,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,RUS,3000m,W,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,RUS,500m,M,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,RUS,500m,M,Silver,Russia,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,RUS,super-G,W,Silver,Russia,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,RUS,15km mass start,W,Bronze,Russia,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,RUS,15km mass start,W,Silver,Russia,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,RUS,4x5km relay,W,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,RUS,5km,W,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Skiing,Cross Country S,RUS,Combined 5km + 10km pursuit,W,Gold,Russia,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,RUS,moguls,M,Silver,Russia,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,RUS,moguls,W,Bronze,Russia,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,SLO,alpine combined,W,Bronze,Slovenia,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,SLO,slalom,M,Bronze,Slovenia,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,SLO,slalom,W,Bronze,Slovenia,61.1232,10.4741
+1994,Lillehammer,Bobsleigh,Bobsleigh,SUI,four-man,M,Silver,Switzerland,61.1232,10.4741
+1994,Lillehammer,Bobsleigh,Bobsleigh,SUI,two-man,M,Gold,Switzerland,61.1232,10.4741
+1994,Lillehammer,Bobsleigh,Bobsleigh,SUI,two-man,M,Silver,Switzerland,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,SUI,alpine combined,W,Silver,Switzerland,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,SUI,giant slalom,M,Silver,Switzerland,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,SUI,giant slalom,W,Bronze,Switzerland,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,SUI,slalom,W,Gold,Switzerland,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,SUI,aerials,M,Gold,Switzerland,61.1232,10.4741
+1994,Lillehammer,Skiing,Nordic Combined,SUI,Team,M,Bronze,Switzerland,61.1232,10.4741
+1994,Lillehammer,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Gold,Sweden,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,SWE,alpine combined,W,Gold,Sweden,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,SWE,aerials,W,Silver,Sweden,61.1232,10.4741
+1994,Lillehammer,Biathlon,Biathlon,UKR,7.5km,W,Bronze,Ukraine,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,UKR,individual,W,Gold,Ukraine,61.1232,10.4741
+1994,Lillehammer,Skating,Figure skating,USA,individual,W,Silver,United States,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,USA,3000m relay,W,Bronze,United States,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,USA,5000m relay,M,Silver,United States,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,USA,500m,W,Bronze,United States,61.1232,10.4741
+1994,Lillehammer,Skating,Short Track S.,USA,500m,W,Gold,United States,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,USA,1000m,M,Gold,United States,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,USA,1000m,W,Gold,United States,61.1232,10.4741
+1994,Lillehammer,Skating,Speed skating,USA,500m,W,Gold,United States,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,USA,downhill,M,Gold,United States,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,USA,downhill,W,Silver,United States,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,USA,super-G,M,Silver,United States,61.1232,10.4741
+1994,Lillehammer,Skiing,Alpine Skiing,USA,super-G,W,Gold,United States,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,USA,moguls,W,Silver,United States,61.1232,10.4741
+1994,Lillehammer,Skiing,Freestyle Ski.,UZB,aerials,W,Gold,Uzbekistan,61.1232,10.4741
+1998,Nagano,Skiing,Alpine Skiing,AUS,slalom,W,Bronze,Australia,36.5798,138.1657
+1998,Nagano,Luge,Luge,AUT,singles,W,Bronze,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,alpine combined,M,Bronze,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,alpine combined,M,Gold,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,downhill,M,Bronze,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,giant slalom,M,Gold,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,giant slalom,M,Silver,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,giant slalom,W,Silver,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,slalom,M,Bronze,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,super-G,M,Gold,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,super-G,M,Silver,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,super-G,W,Bronze,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,AUT,super-G,W,Silver,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,AUT,10km pursuit,M,Silver,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,AUT,50km,M,Bronze,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Ski Jumping,AUT,K120 team (90m),M,Bronze,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Ski Jumping,AUT,K90 individual (70m),M,Bronze,Austria,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,AUT,giant-slalom,W,Bronze,Austria,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,BEL,5000m,M,Bronze,Belgium,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,BLR,20km,M,Bronze,Belarus,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,BLR,aerials,M,Bronze,Belarus,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,BUL,15km,W,Gold,Bulgaria,36.5798,138.1657
+1998,Nagano,Bobsleigh,Bobsleigh,CAN,two-man,M,Gold,Canada,36.5798,138.1657
+1998,Nagano,Curling,Curling,CAN,curling,M,Silver,Canada,36.5798,138.1657
+1998,Nagano,Curling,Curling,CAN,curling,W,Gold,Canada,36.5798,138.1657
+1998,Nagano,Ice Hockey,Ice Hockey,CAN,ice hockey,W,Silver,Canada,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,CAN,individual,M,Silver,Canada,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,CAN,1000m,M,Bronze,Canada,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,CAN,3000m relay,W,Bronze,Canada,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,CAN,5000m relay,M,Gold,Canada,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,CAN,500m,W,Gold,Canada,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,CAN,1000m,W,Bronze,Canada,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,CAN,500m,M,Bronze,Canada,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,CAN,500m,M,Silver,Canada,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,CAN,500m,W,Gold,Canada,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,CAN,500m,W,Silver,Canada,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,CAN,giant-slalom,M,Gold,Canada,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,CHN,individual,W,Bronze,China,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,CHN,1000m,M,Silver,China,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,CHN,1000m,W,Silver,China,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,CHN,3000m relay,W,Silver,China,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,CHN,5000m relay,M,Bronze,China,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,CHN,500m,M,Silver,China,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,CHN,500m,W,Silver,China,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,CHN,aerials,W,Silver,China,36.5798,138.1657
+1998,Nagano,Ice Hockey,Ice Hockey,CZE,ice hockey,M,Gold,Czech Republic,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,CZE,5km,W,Silver,Czech Republic,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,CZE,Combined 5km + 10km pursuit,W,Bronze,Czech Republic,36.5798,138.1657
+1998,Nagano,Curling,Curling,DEN,curling,W,Silver,Denmark,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,FIN,10km,M,Bronze,Finland,36.5798,138.1657
+1998,Nagano,Ice Hockey,Ice Hockey,FIN,ice hockey,M,Bronze,Finland,36.5798,138.1657
+1998,Nagano,Ice Hockey,Ice Hockey,FIN,ice hockey,W,Bronze,Finland,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,FIN,10km pursuit,M,Bronze,Finland,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,FIN,30km mass start,M,Gold,Finland,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,FIN,4x10km relay,M,Bronze,Finland,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,FIN,moguls,M,Bronze,Finland,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,FIN,moguls,M,Silver,Finland,36.5798,138.1657
+1998,Nagano,Skiing,Nordic Combined,FIN,individual,M,Silver,Finland,36.5798,138.1657
+1998,Nagano,Skiing,Nordic Combined,FIN,Team,M,Silver,Finland,36.5798,138.1657
+1998,Nagano,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Silver,Finland,36.5798,138.1657
+1998,Nagano,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Gold,Finland,36.5798,138.1657
+1998,Nagano,Bobsleigh,Bobsleigh,FRA,four-man,M,Bronze,France,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,FRA,ice dancing,X,Bronze,France,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,FRA,individual,M,Bronze,France,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,FRA,downhill,M,Gold,France,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,FRA,downhill,W,Bronze,France,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,FRA,aerials,M,Silver,France,36.5798,138.1657
+1998,Nagano,Skiing,Nordic Combined,FRA,Team,M,Bronze,France,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,FRA,giant-slalom,W,Gold,France,36.5798,138.1657
+1998,Nagano,Bobsleigh,Bobsleigh,GBR,four-man,M,Bronze,United Kingdom,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,GER,15km,W,Bronze,Germany,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,GER,4x7.5km relay,M,Gold,Germany,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,GER,4x7.5km relay,W,Gold,Germany,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,GER,7.5km,W,Bronze,Germany,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,GER,7.5km,W,Silver,Germany,36.5798,138.1657
+1998,Nagano,Bobsleigh,Bobsleigh,GER,four-man,M,Gold,Germany,36.5798,138.1657
+1998,Nagano,Bobsleigh,Bobsleigh,GER,two-man,M,Bronze,Germany,36.5798,138.1657
+1998,Nagano,Luge,Luge,GER,doubles,X,Gold,Germany,36.5798,138.1657
+1998,Nagano,Luge,Luge,GER,singles,M,Bronze,Germany,36.5798,138.1657
+1998,Nagano,Luge,Luge,GER,singles,M,Gold,Germany,36.5798,138.1657
+1998,Nagano,Luge,Luge,GER,singles,W,Gold,Germany,36.5798,138.1657
+1998,Nagano,Luge,Luge,GER,singles,W,Silver,Germany,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,GER,pairs,X,Bronze,Germany,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,GER,1500m,W,Silver,Germany,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,GER,3000m,W,Bronze,Germany,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,GER,3000m,W,Gold,Germany,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,GER,3000m,W,Silver,Germany,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,GER,5000m,W,Gold,Germany,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,GER,5000m,W,Silver,Germany,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,GER,alpine combined,W,Bronze,Germany,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,GER,alpine combined,W,Gold,Germany,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,GER,alpine combined,W,Silver,Germany,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,GER,downhill,W,Gold,Germany,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,GER,giant slalom,W,Bronze,Germany,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,GER,slalom,W,Gold,Germany,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,GER,moguls,W,Silver,Germany,36.5798,138.1657
+1998,Nagano,Skiing,Ski Jumping,GER,K120 team (90m),M,Silver,Germany,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,GER,giant-slalom,W,Silver,Germany,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,GER,Half-pipe,W,Gold,Germany,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,ITA,20km,M,Silver,Italy,36.5798,138.1657
+1998,Nagano,Bobsleigh,Bobsleigh,ITA,two-man,M,Gold,Italy,36.5798,138.1657
+1998,Nagano,Luge,Luge,ITA,singles,M,Silver,Italy,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,ITA,giant slalom,W,Gold,Italy,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,ITA,slalom,W,Silver,Italy,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,ITA,30km,W,Silver,Italy,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,ITA,30km mass start,M,Bronze,Italy,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,ITA,4x10km relay,M,Silver,Italy,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,ITA,4x5km relay,W,Bronze,Italy,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,ITA,giant-slalom,M,Silver,Italy,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,JPN,500m,M,Bronze,Japan,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,JPN,500m,M,Gold,Japan,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,JPN,1000m,M,Bronze,Japan,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,JPN,500m,M,Gold,Japan,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,JPN,500m,W,Bronze,Japan,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,JPN,moguls,W,Gold,Japan,36.5798,138.1657
+1998,Nagano,Skiing,Ski Jumping,JPN,K120 individual (90m),M,Bronze,Japan,36.5798,138.1657
+1998,Nagano,Skiing,Ski Jumping,JPN,K120 individual (90m),M,Gold,Japan,36.5798,138.1657
+1998,Nagano,Skiing,Ski Jumping,JPN,K120 team (90m),M,Gold,Japan,36.5798,138.1657
+1998,Nagano,Skiing,Ski Jumping,JPN,K90 individual (70m),M,Silver,Japan,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,KAZ,5000m,W,Bronze,Kazakhstan,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,KAZ,Combined 10km + 15km pursuit,M,Bronze,Kazakhstan,36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,KOR,1000m,M,Gold,"Korea, South",36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,KOR,1000m,W,Bronze,"Korea, South",36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,KOR,1000m,W,Gold,"Korea, South",36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,KOR,3000m relay,W,Gold,"Korea, South",36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,KOR,5000m relay,M,Silver,"Korea, South",36.5798,138.1657
+1998,Nagano,Skating,Short Track S.,KOR,500m,W,Bronze,"Korea, South",36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,10000m,M,Bronze,Netherlands,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,10000m,M,Gold,Netherlands,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,10000m,M,Silver,Netherlands,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,1000m,M,Gold,Netherlands,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,1000m,M,Silver,Netherlands,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,1000m,W,Gold,Netherlands,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,1500m,M,Bronze,Netherlands,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,1500m,M,Silver,Netherlands,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,1500m,W,Gold,Netherlands,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,5000m,M,Gold,Netherlands,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NED,5000m,M,Silver,Netherlands,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,NOR,10km,M,Gold,Norway,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,NOR,10km,M,Silver,Norway,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,NOR,20km,M,Gold,Norway,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,NOR,4x7.5km relay,M,Silver,Norway,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,NOR,4x7.5km relay,W,Bronze,Norway,36.5798,138.1657
+1998,Nagano,Curling,Curling,NOR,curling,M,Bronze,Norway,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,NOR,1500m,M,Gold,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,NOR,alpine combined,M,Silver,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,NOR,downhill,M,Silver,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,NOR,slalom,M,Gold,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,NOR,slalom,M,Silver,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,NOR,10km pursuit,M,Gold,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,NOR,15km mass start,W,Bronze,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,NOR,30km mass start,M,Silver,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,NOR,4x10km relay,M,Gold,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,NOR,4x5km relay,W,Silver,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,NOR,50km,M,Gold,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,NOR,5km,W,Bronze,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,NOR,Combined 10km + 15km pursuit,M,Gold,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,NOR,Combined 10km + 15km pursuit,M,Silver,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,NOR,moguls,W,Bronze,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Nordic Combined,NOR,individual,M,Gold,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Nordic Combined,NOR,Team,M,Gold,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,NOR,Half-pipe,M,Silver,Norway,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,NOR,Half-pipe,W,Silver,Norway,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,RUS,4x7.5km relay,M,Bronze,Russia,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,RUS,4x7.5km relay,W,Silver,Russia,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,RUS,7.5km,W,Gold,Russia,36.5798,138.1657
+1998,Nagano,Ice Hockey,Ice Hockey,RUS,ice hockey,M,Silver,Russia,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,RUS,ice dancing,X,Gold,Russia,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,RUS,ice dancing,X,Silver,Russia,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,RUS,individual,M,Gold,Russia,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,RUS,pairs,X,Gold,Russia,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,RUS,pairs,X,Silver,Russia,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,RUS,15km mass start,W,Gold,Russia,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,RUS,15km mass start,W,Silver,Russia,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,RUS,30km,W,Bronze,Russia,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,RUS,30km,W,Gold,Russia,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,RUS,4x5km relay,W,Gold,Russia,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,RUS,5km,W,Gold,Russia,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,RUS,Combined 5km + 10km pursuit,W,Gold,Russia,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,RUS,Combined 5km + 10km pursuit,W,Silver,Russia,36.5798,138.1657
+1998,Nagano,Skiing,Nordic Combined,RUS,individual,M,Bronze,Russia,36.5798,138.1657
+1998,Nagano,Bobsleigh,Bobsleigh,SUI,four-man,M,Silver,Switzerland,36.5798,138.1657
+1998,Nagano,Curling,Curling,SUI,curling,M,Gold,Switzerland,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,SUI,giant slalom,M,Bronze,Switzerland,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,SUI,super-G,M,Silver,Switzerland,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,SUI,aerials,W,Bronze,Switzerland,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,SUI,giant-slalom,M,Bronze,Switzerland,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,SUI,Half-pipe,M,Gold,Switzerland,36.5798,138.1657
+1998,Nagano,Curling,Curling,SWE,curling,W,Bronze,Sweden,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,SWE,downhill,W,Silver,Sweden,36.5798,138.1657
+1998,Nagano,Skiing,Cross Country S,SWE,50km,M,Silver,Sweden,36.5798,138.1657
+1998,Nagano,Biathlon,Biathlon,UKR,15km,W,Silver,Ukraine,36.5798,138.1657
+1998,Nagano,Ice Hockey,Ice Hockey,USA,ice hockey,W,Gold,United States,36.5798,138.1657
+1998,Nagano,Luge,Luge,USA,doubles,X,Bronze,United States,36.5798,138.1657
+1998,Nagano,Luge,Luge,USA,doubles,X,Silver,United States,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,USA,individual,W,Gold,United States,36.5798,138.1657
+1998,Nagano,Skating,Figure skating,USA,individual,W,Silver,United States,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,USA,1000m,W,Silver,United States,36.5798,138.1657
+1998,Nagano,Skating,Speed skating,USA,1500m,W,Bronze,United States,36.5798,138.1657
+1998,Nagano,Skiing,Alpine Skiing,USA,super-G,W,Gold,United States,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,USA,aerials,M,Gold,United States,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,USA,aerials,W,Gold,United States,36.5798,138.1657
+1998,Nagano,Skiing,Freestyle Ski.,USA,moguls,M,Gold,United States,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,USA,Half-pipe,M,Bronze,United States,36.5798,138.1657
+1998,Nagano,Skiing,Snowboard,USA,Half-pipe,W,Bronze,United States,36.5798,138.1657
+2002,Salt Lake City,Skating,Short Track S.,AUS,1000m,M,Gold,Australia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,AUS,aerials,W,Gold,Australia,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,AUT,10km,M,Bronze,Austria,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Skeleton,AUT,individual,M,Silver,Austria,40.7651,-111.8947
+2002,Salt Lake City,Luge,Luge,AUT,singles,M,Bronze,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,AUT,alpine combined,M,Bronze,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,AUT,alpine combined,W,Silver,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,AUT,downhill,M,Bronze,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,AUT,downhill,M,Gold,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,AUT,downhill,W,Bronze,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,AUT,giant slalom,M,Gold,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,AUT,slalom,M,Bronze,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,AUT,super-G,M,Bronze,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,AUT,super-G,M,Silver,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,AUT,30km mass start,M,Gold,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,AUT,30km mass start,M,Silver,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Nordic Combined,AUT,individual,M,Bronze,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Nordic Combined,AUT,sprint,M,Bronze,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Nordic Combined,AUT,Team,M,Bronze,Austria,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,BLR,aerials,M,Bronze,Belarus,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,BUL,10km pursuit,W,Bronze,Bulgaria,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,BUL,1500m,W,Bronze,Bulgaria,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,BUL,500m,W,Silver,Bulgaria,40.7651,-111.8947
+2002,Salt Lake City,Curling,Curling,CAN,curling,M,Silver,Canada,40.7651,-111.8947
+2002,Salt Lake City,Curling,Curling,CAN,curling,W,Bronze,Canada,40.7651,-111.8947
+2002,Salt Lake City,Ice Hockey,Ice Hockey,CAN,ice hockey,M,Gold,Canada,40.7651,-111.8947
+2002,Salt Lake City,Ice Hockey,Ice Hockey,CAN,ice hockey,W,Gold,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,CAN,pairs,X,Gold,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CAN,1000m,M,Bronze,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CAN,1500m,M,Bronze,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CAN,3000m relay,W,Bronze,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CAN,5000m relay,M,Gold,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CAN,500m,M,Gold,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CAN,500m,M,Silver,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,CAN,3000m,W,Bronze,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,CAN,5000m,W,Bronze,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,CAN,500m,W,Gold,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,CAN,5km pursuit,W,Gold,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,CAN,aerials,W,Bronze,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,CAN,aerials,W,Silver,Canada,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,CHN,pairs,X,Bronze,China,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CHN,1000m,W,Bronze,China,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CHN,1000m,W,Gold,China,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CHN,1500m,M,Silver,China,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CHN,3000m relay,W,Silver,China,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CHN,5000m relay,M,Bronze,China,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CHN,500m,W,Bronze,China,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,CHN,500m,W,Gold,China,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,CRO,alpine combined,W,Gold,Croatia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,CRO,giant slalom,W,Gold,Croatia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,CRO,slalom,W,Gold,Croatia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,CRO,super-G,W,Silver,Croatia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,CZE,15km mass start,W,Silver,Czech Republic,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,CZE,5km pursuit,W,Silver,Czech Republic,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,CZE,aerials,M,Gold,Czech Republic,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,EST,15km,M,Bronze,Estonia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,EST,15km,M,Gold,Estonia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,EST,50km,M,Silver,Estonia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,FIN,moguls,M,Gold,Finland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Nordic Combined,FIN,individual,M,Gold,Finland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Nordic Combined,FIN,individual,M,Silver,Finland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Nordic Combined,FIN,sprint,M,Gold,Finland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Nordic Combined,FIN,Team,M,Gold,Finland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Ski Jumping,FIN,K120 individual (90m),M,Bronze,Finland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Ski Jumping,FIN,K120 team (90m),M,Silver,Finland,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,FRA,12.5km pursuit,M,Silver,France,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,FRA,4x7.5km relay,M,Bronze,France,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,FRA,ice dancing,X,Gold,France,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,FRA,downhill,W,Gold,France,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,FRA,slalom,M,Gold,France,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,FRA,slalom,M,Silver,France,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,FRA,slalom,W,Silver,France,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,FRA,moguls,M,Bronze,France,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,FRA,Giant parallel slalom,W,Gold,France,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,FRA,Giant parallel slalom,W,Silver,France,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,FRA,Half-pipe,W,Silver,France,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Skeleton,GBR,individual,W,Bronze,United Kingdom,40.7651,-111.8947
+2002,Salt Lake City,Curling,Curling,GBR,curling,W,Gold,United Kingdom,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,GER,10km,M,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,GER,10km pursuit,W,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,GER,12.5km pursuit,M,Bronze,Germany,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,GER,15km,W,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,GER,20km,M,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,GER,4x7.5km relay,M,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,GER,4x7.5km relay,W,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,GER,7.5km,W,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,GER,7.5km,W,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Bobsleigh,GER,four-man,M,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Bobsleigh,GER,two-man,M,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Bobsleigh,GER,two-man,W,Bronze,Germany,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Bobsleigh,GER,two-man,W,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Luge,Luge,GER,doubles,X,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Luge,Luge,GER,singles,M,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Luge,Luge,GER,singles,W,Bronze,Germany,40.7651,-111.8947
+2002,Salt Lake City,Luge,Luge,GER,singles,W,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Luge,Luge,GER,singles,W,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,GER,1000m,W,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,GER,1500m,W,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,GER,1500m,W,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,GER,3000m,W,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,GER,5000m,M,Bronze,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,GER,5000m,W,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,GER,500m,W,Bronze,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,GER,500m,W,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,GER,alpine combined,W,Bronze,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,GER,4x10km relay,M,Bronze,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,GER,4x5km relay,W,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,GER,5km pursuit,W,Bronze,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,GER,"Sprint 1,5km",M,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,GER,sprint 1.5km,W,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Nordic Combined,GER,sprint,M,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Nordic Combined,GER,Team,M,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Ski Jumping,GER,K120 team (90m),M,Gold,Germany,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Ski Jumping,GER,K90 individual (70m),M,Silver,Germany,40.7651,-111.8947
+2002,Salt Lake City,Luge,Luge,ITA,singles,M,Gold,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,ITA,ice dancing,X,Bronze,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,ITA,5000m relay,M,Silver,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,ITA,downhill,W,Silver,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,ITA,super-G,W,Bronze,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,ITA,super-G,W,Gold,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,ITA,10km,W,Bronze,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,ITA,15km mass start,W,Gold,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,ITA,30km,W,Gold,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,ITA,30km,W,Silver,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,ITA,4x10km relay,M,Silver,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,ITA,"Sprint 1,5km",M,Bronze,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,ITA,Giant parallel slalom,W,Bronze,Italy,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,JPN,500m,M,Silver,Japan,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,JPN,moguls,W,Bronze,Japan,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,KOR,1000m,W,Silver,"Korea, South",40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,KOR,1500m,W,Gold,"Korea, South",40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,KOR,1500m,W,Silver,"Korea, South",40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,KOR,3000m relay,W,Gold,"Korea, South",40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,NED,10000m,M,Gold,Netherlands,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,NED,10000m,M,Silver,Netherlands,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,NED,1000m,M,Gold,Netherlands,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,NED,1000m,M,Silver,Netherlands,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,NED,1500m,M,Silver,Netherlands,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,NED,3000m,W,Silver,Netherlands,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,NED,5000m,M,Gold,Netherlands,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,NED,5000m,W,Silver,Netherlands,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,NOR,10km,M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,NOR,12.5km pursuit,M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,NOR,15km,W,Silver,Norway,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,NOR,20km,M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,NOR,4x7.5km relay,M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,NOR,4x7.5km relay,W,Silver,Norway,40.7651,-111.8947
+2002,Salt Lake City,Curling,Curling,NOR,curling,M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,NOR,10000m,M,Bronze,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,NOR,1500m,M,Bronze,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,NOR,alpine combined,M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,NOR,downhill,M,Silver,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,NOR,giant slalom,M,Bronze,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,NOR,super-G,M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,10km,W,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,10km pursuit,M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,10km pursuit,M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,15km,M,Silver,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,30km,W,Bronze,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,30km mass start,M,Bronze,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,4x10km relay,M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,4x5km relay,W,Silver,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,50km,M,Bronze,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,"Sprint 1,5km",M,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,NOR,sprint 1.5km,W,Bronze,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,NOR,moguls,W,Gold,Norway,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Ski Jumping,POL,K120 individual (90m),M,Silver,Poland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Ski Jumping,POL,K90 individual (70m),M,Bronze,Poland,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,RUS,10km pursuit,W,Gold,Russia,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,RUS,20km,M,Bronze,Russia,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,RUS,4x7.5km relay,W,Bronze,Russia,40.7651,-111.8947
+2002,Salt Lake City,Ice Hockey,Ice Hockey,RUS,ice hockey,M,Bronze,Russia,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,RUS,ice dancing,X,Silver,Russia,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,RUS,individual,M,Gold,Russia,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,RUS,individual,M,Silver,Russia,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,RUS,individual,W,Silver,Russia,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,RUS,pairs,X,Gold,Russia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,RUS,10km,W,Silver,Russia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,RUS,15km mass start,W,Bronze,Russia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,RUS,50km,M,Gold,Russia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,RUS,sprint 1.5km,W,Gold,Russia,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Ski Jumping,SLO,K120 team (90m),M,Bronze,Slovenia,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Bobsleigh,SUI,two-man,M,Bronze,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Bobsleigh,SUI,two-man,M,Silver,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Skeleton,SUI,individual,M,Bronze,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Curling,Curling,SUI,curling,M,Bronze,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Curling,Curling,SUI,curling,W,Silver,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,SUI,giant slalom,W,Bronze,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,SUI,4x5km relay,W,Bronze,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Ski Jumping,SUI,K120 individual (90m),M,Gold,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Ski Jumping,SUI,K90 individual (70m),M,Gold,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,SUI,Giant parallel slalom,M,Gold,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,SUI,Half-pipe,W,Bronze,Switzerland,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,SWE,15km,W,Bronze,Sweden,40.7651,-111.8947
+2002,Salt Lake City,Biathlon,Biathlon,SWE,7.5km,W,Bronze,Sweden,40.7651,-111.8947
+2002,Salt Lake City,Ice Hockey,Ice Hockey,SWE,ice hockey,W,Bronze,Sweden,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,SWE,giant slalom,W,Silver,Sweden,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,SWE,slalom,W,Bronze,Sweden,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Cross Country S,SWE,10km pursuit,M,Bronze,Sweden,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,SWE,Giant parallel slalom,M,Silver,Sweden,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Bobsleigh,USA,four-man,M,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Bobsleigh,USA,four-man,M,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Bobsleigh,USA,two-man,W,Gold,United States,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Skeleton,USA,individual,M,Gold,United States,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Skeleton,USA,individual,W,Gold,United States,40.7651,-111.8947
+2002,Salt Lake City,Bobsleigh,Skeleton,USA,individual,W,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Ice Hockey,Ice Hockey,USA,ice hockey,M,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Ice Hockey,Ice Hockey,USA,ice hockey,W,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Luge,Luge,USA,doubles,X,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Luge,Luge,USA,doubles,X,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,USA,individual,M,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,USA,individual,W,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Figure skating,USA,individual,W,Gold,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,USA,1000m,M,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,USA,1500m,M,Gold,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Short Track S.,USA,500m,M,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,USA,1000m,M,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,USA,1000m,W,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,USA,1000m,W,Gold,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,USA,1500m,M,Gold,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,USA,1500m,W,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,USA,5000m,M,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,USA,500m,M,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Skating,Speed skating,USA,500m,M,Gold,United States,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,USA,alpine combined,M,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Alpine Skiing,USA,giant slalom,M,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,USA,aerials,M,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,USA,moguls,M,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Freestyle Ski.,USA,moguls,W,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,USA,Giant parallel slalom,M,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,USA,Half-pipe,M,Bronze,United States,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,USA,Half-pipe,M,Gold,United States,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,USA,Half-pipe,M,Silver,United States,40.7651,-111.8947
+2002,Salt Lake City,Skiing,Snowboard,USA,Half-pipe,W,Gold,United States,40.7651,-111.8947
+2006,Turin,Skiing,Freestyle Ski.,AUS,aerials,W,Bronze,Australia,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,AUS,moguls,M,Gold,Australia,45.0656,7.687
+2006,Turin,Luge,Luge,AUT,doubles,X,Gold,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,Alpine combined,M,Bronze,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,Alpine combined,W,Silver,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,downhill,M,Silver,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,downhill,W,Gold,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,giant slalom,M,Bronze,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,giant slalom,M,Gold,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,slalom,M,Bronze,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,slalom,M,Gold,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,slalom,M,Silver,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,slalom,W,Bronze,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,slalom,W,Silver,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,super-G,M,Silver,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,super-G,W,Bronze,Austria,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,AUT,super-G,W,Gold,Austria,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,AUT,50km,M,Bronze,Austria,45.0656,7.687
+2006,Turin,Skiing,Nordic Combined,AUT,Individual,M,Silver,Austria,45.0656,7.687
+2006,Turin,Skiing,Nordic Combined,AUT,Individual sprint,M,Gold,Austria,45.0656,7.687
+2006,Turin,Skiing,Nordic Combined,AUT,Team,M,Gold,Austria,45.0656,7.687
+2006,Turin,Skiing,Ski Jumping,AUT,K120 individual (90m),M,Gold,Austria,45.0656,7.687
+2006,Turin,Skiing,Ski Jumping,AUT,K120 individual (90m),M,Silver,Austria,45.0656,7.687
+2006,Turin,Skiing,Ski Jumping,AUT,K120 team (90m),M,Gold,Austria,45.0656,7.687
+2006,Turin,Skiing,Snowboard,AUT,Giant parallel slalom,M,Bronze,Austria,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,BLR,aerials,M,Silver,Belarus,45.0656,7.687
+2006,Turin,Skating,Short Track S.,BUL,500m,W,Silver,Bulgaria,45.0656,7.687
+2006,Turin,Bobsleigh,Bobsleigh,CAN,two-man,M,Silver,Canada,45.0656,7.687
+2006,Turin,Bobsleigh,Skeleton,CAN,individual,M,Gold,Canada,45.0656,7.687
+2006,Turin,Bobsleigh,Skeleton,CAN,individual,M,Silver,Canada,45.0656,7.687
+2006,Turin,Bobsleigh,Skeleton,CAN,individual,W,Bronze,Canada,45.0656,7.687
+2006,Turin,Curling,Curling,CAN,curling,M,Gold,Canada,45.0656,7.687
+2006,Turin,Curling,Curling,CAN,curling,W,Bronze,Canada,45.0656,7.687
+2006,Turin,Ice Hockey,Ice Hockey,CAN,ice hockey,W,Gold,Canada,45.0656,7.687
+2006,Turin,Skating,Figure skating,CAN,individual,M,Bronze,Canada,45.0656,7.687
+2006,Turin,Skating,Short Track S.,CAN,3000m relay,W,Silver,Canada,45.0656,7.687
+2006,Turin,Skating,Short Track S.,CAN,5000m relay,M,Silver,Canada,45.0656,7.687
+2006,Turin,Skating,Short Track S.,CAN,500m,M,Silver,Canada,45.0656,7.687
+2006,Turin,Skating,Short Track S.,CAN,500m,W,Bronze,Canada,45.0656,7.687
+2006,Turin,Skating,Speed skating,CAN,1000m,W,Silver,Canada,45.0656,7.687
+2006,Turin,Skating,Speed skating,CAN,1500m,W,Gold,Canada,45.0656,7.687
+2006,Turin,Skating,Speed skating,CAN,1500m,W,Silver,Canada,45.0656,7.687
+2006,Turin,Skating,Speed skating,CAN,3000m,W,Bronze,Canada,45.0656,7.687
+2006,Turin,Skating,Speed skating,CAN,5000m,W,Bronze,Canada,45.0656,7.687
+2006,Turin,Skating,Speed skating,CAN,5000m,W,Gold,Canada,45.0656,7.687
+2006,Turin,Skating,Speed skating,CAN,Team pursuit,M,Silver,Canada,45.0656,7.687
+2006,Turin,Skating,Speed skating,CAN,Team pursuit,W,Silver,Canada,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,CAN,sprint 1.5km,W,Gold,Canada,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,CAN,Team sprint,W,Silver,Canada,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,CAN,moguls,W,Gold,Canada,45.0656,7.687
+2006,Turin,Skiing,Snowboard,CAN,Snowboard Cross,W,Bronze,Canada,45.0656,7.687
+2006,Turin,Skating,Figure skating,CHN,pairs,X,Bronze,China,45.0656,7.687
+2006,Turin,Skating,Figure skating,CHN,pairs,X,Silver,China,45.0656,7.687
+2006,Turin,Skating,Short Track S.,CHN,1000m,W,Bronze,China,45.0656,7.687
+2006,Turin,Skating,Short Track S.,CHN,1000m,W,Silver,China,45.0656,7.687
+2006,Turin,Skating,Short Track S.,CHN,1500m,M,Bronze,China,45.0656,7.687
+2006,Turin,Skating,Short Track S.,CHN,1500m,W,Bronze,China,45.0656,7.687
+2006,Turin,Skating,Short Track S.,CHN,500m,W,Gold,China,45.0656,7.687
+2006,Turin,Skating,Speed skating,CHN,500m,W,Bronze,China,45.0656,7.687
+2006,Turin,Skating,Speed skating,CHN,500m,W,Silver,China,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,CHN,aerials,M,Gold,China,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,CHN,aerials,W,Silver,China,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,CRO,Alpine combined,M,Silver,Croatia,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,CRO,Alpine combined,W,Gold,Croatia,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,CRO,super-G,W,Silver,Croatia,45.0656,7.687
+2006,Turin,Ice Hockey,Ice Hockey,CZE,ice hockey,M,Bronze,Czech Republic,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,CZE,15km,M,Silver,Czech Republic,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,CZE,30km,W,Gold,Czech Republic,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,CZE,Combined 7.5 + 7.5km mass start,W,Silver,Czech Republic,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,EST,10km,W,Gold,Estonia,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,EST,15km,M,Gold,Estonia,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,EST,Combined 7.5 + 7.5km mass start,W,Gold,Estonia,45.0656,7.687
+2006,Turin,Curling,Curling,FIN,curling,M,Silver,Finland,45.0656,7.687
+2006,Turin,Ice Hockey,Ice Hockey,FIN,ice hockey,M,Silver,Finland,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,FIN,giant slalom,W,Silver,Finland,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,FIN,Team sprint,W,Bronze,Finland,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,FIN,moguls,M,Silver,Finland,45.0656,7.687
+2006,Turin,Skiing,Nordic Combined,FIN,Team,M,Bronze,Finland,45.0656,7.687
+2006,Turin,Skiing,Ski Jumping,FIN,K120 team (90m),M,Silver,Finland,45.0656,7.687
+2006,Turin,Skiing,Ski Jumping,FIN,K90 individual (70m),M,Silver,Finland,45.0656,7.687
+2006,Turin,Skiing,Snowboard,FIN,Half-pipe,M,Bronze,Finland,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,FRA,12.5km pursuit,M,Gold,France,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,FRA,4x6km relay,W,Bronze,France,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,FRA,4x7.5km relay,M,Bronze,France,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,FRA,7.5km,W,Gold,France,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,FRA,downhill,M,Gold,France,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,FRA,giant slalom,M,Silver,France,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,FRA,"Sprint 1,5km",M,Silver,France,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,FRA,moguls,W,Bronze,France,45.0656,7.687
+2006,Turin,Skiing,Snowboard,FRA,Snowboard Cross,M,Bronze,France,45.0656,7.687
+2006,Turin,Bobsleigh,Skeleton,GBR,individual,W,Silver,United Kingdom,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,10km,M,Gold,Germany,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,10km pursuit,W,Gold,Germany,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,10km pursuit,W,Silver,Germany,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,"12,5km mass start",W,Bronze,Germany,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,"12,5km mass start",W,Silver,Germany,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,12.5km pursuit,M,Bronze,Germany,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,15km,W,Silver,Germany,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,15km mass start,M,Gold,Germany,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,20km,M,Gold,Germany,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,4x6km relay,W,Silver,Germany,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,GER,4x7.5km relay,M,Gold,Germany,45.0656,7.687
+2006,Turin,Bobsleigh,Bobsleigh,GER,four-man,M,Gold,Germany,45.0656,7.687
+2006,Turin,Bobsleigh,Bobsleigh,GER,two-man,M,Gold,Germany,45.0656,7.687
+2006,Turin,Bobsleigh,Bobsleigh,GER,two-man,W,Gold,Germany,45.0656,7.687
+2006,Turin,Luge,Luge,GER,doubles,X,Silver,Germany,45.0656,7.687
+2006,Turin,Luge,Luge,GER,singles,W,Bronze,Germany,45.0656,7.687
+2006,Turin,Luge,Luge,GER,singles,W,Gold,Germany,45.0656,7.687
+2006,Turin,Luge,Luge,GER,singles,W,Silver,Germany,45.0656,7.687
+2006,Turin,Skating,Speed skating,GER,1000m,W,Bronze,Germany,45.0656,7.687
+2006,Turin,Skating,Speed skating,GER,5000m,W,Silver,Germany,45.0656,7.687
+2006,Turin,Skating,Speed skating,GER,Team pursuit,W,Gold,Germany,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,GER,15km,M,Bronze,Germany,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,GER,4x10km relay,M,Silver,Germany,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,GER,4x5km relay,W,Silver,Germany,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,GER,sprint 1.5km,W,Silver,Germany,45.0656,7.687
+2006,Turin,Skiing,Nordic Combined,GER,Individual,M,Gold,Germany,45.0656,7.687
+2006,Turin,Skiing,Nordic Combined,GER,Individual sprint,M,Bronze,Germany,45.0656,7.687
+2006,Turin,Skiing,Nordic Combined,GER,Team,M,Silver,Germany,45.0656,7.687
+2006,Turin,Skiing,Snowboard,GER,Giant parallel slalom,W,Silver,Germany,45.0656,7.687
+2006,Turin,Bobsleigh,Bobsleigh,ITA,two-man,W,Bronze,Italy,45.0656,7.687
+2006,Turin,Luge,Luge,ITA,doubles,X,Bronze,Italy,45.0656,7.687
+2006,Turin,Luge,Luge,ITA,singles,M,Gold,Italy,45.0656,7.687
+2006,Turin,Skating,Short Track S.,ITA,3000m relay,W,Bronze,Italy,45.0656,7.687
+2006,Turin,Skating,Speed skating,ITA,1500m,M,Gold,Italy,45.0656,7.687
+2006,Turin,Skating,Speed skating,ITA,5000m,M,Bronze,Italy,45.0656,7.687
+2006,Turin,Skating,Speed skating,ITA,Team pursuit,M,Gold,Italy,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,ITA,4x10km relay,M,Gold,Italy,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,ITA,4x5km relay,W,Bronze,Italy,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,ITA,50km,M,Gold,Italy,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,ITA,Combined 15 + 15km mass start,M,Bronze,Italy,45.0656,7.687
+2006,Turin,Skating,Figure skating,JPN,individual,W,Gold,Japan,45.0656,7.687
+2006,Turin,Skating,Short Track S.,KOR,1000m,M,Gold,"Korea, South",45.0656,7.687
+2006,Turin,Skating,Short Track S.,KOR,1000m,M,Silver,"Korea, South",45.0656,7.687
+2006,Turin,Skating,Short Track S.,KOR,1000m,W,Gold,"Korea, South",45.0656,7.687
+2006,Turin,Skating,Short Track S.,KOR,1500m,M,Gold,"Korea, South",45.0656,7.687
+2006,Turin,Skating,Short Track S.,KOR,1500m,M,Silver,"Korea, South",45.0656,7.687
+2006,Turin,Skating,Short Track S.,KOR,1500m,W,Gold,"Korea, South",45.0656,7.687
+2006,Turin,Skating,Short Track S.,KOR,1500m,W,Silver,"Korea, South",45.0656,7.687
+2006,Turin,Skating,Short Track S.,KOR,3000m relay,W,Gold,"Korea, South",45.0656,7.687
+2006,Turin,Skating,Short Track S.,KOR,5000m relay,M,Gold,"Korea, South",45.0656,7.687
+2006,Turin,Skating,Short Track S.,KOR,500m,M,Bronze,"Korea, South",45.0656,7.687
+2006,Turin,Skating,Speed skating,KOR,500m,M,Bronze,"Korea, South",45.0656,7.687
+2006,Turin,Luge,Luge,LAT,singles,M,Bronze,Latvia,45.0656,7.687
+2006,Turin,Skating,Speed skating,NED,10000m,M,Bronze,Netherlands,45.0656,7.687
+2006,Turin,Skating,Speed skating,NED,10000m,M,Gold,Netherlands,45.0656,7.687
+2006,Turin,Skating,Speed skating,NED,1000m,M,Bronze,Netherlands,45.0656,7.687
+2006,Turin,Skating,Speed skating,NED,1000m,W,Gold,Netherlands,45.0656,7.687
+2006,Turin,Skating,Speed skating,NED,1500m,W,Bronze,Netherlands,45.0656,7.687
+2006,Turin,Skating,Speed skating,NED,3000m,W,Gold,Netherlands,45.0656,7.687
+2006,Turin,Skating,Speed skating,NED,3000m,W,Silver,Netherlands,45.0656,7.687
+2006,Turin,Skating,Speed skating,NED,5000m,M,Silver,Netherlands,45.0656,7.687
+2006,Turin,Skating,Speed skating,NED,Team pursuit,M,Bronze,Netherlands,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,NOR,10km,M,Bronze,Norway,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,NOR,10km,M,Silver,Norway,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,NOR,12.5km pursuit,M,Silver,Norway,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,NOR,15km mass start,M,Bronze,Norway,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,NOR,20km,M,Bronze,Norway,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,NOR,20km,M,Silver,Norway,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,NOR,super-G,M,Gold,Norway,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,NOR,10km,W,Bronze,Norway,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,NOR,10km,W,Silver,Norway,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,NOR,Combined 15 + 15km mass start,M,Silver,Norway,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,NOR,Team sprint,M,Silver,Norway,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,NOR,moguls,W,Silver,Norway,45.0656,7.687
+2006,Turin,Skiing,Nordic Combined,NOR,Individual,M,Bronze,Norway,45.0656,7.687
+2006,Turin,Skiing,Nordic Combined,NOR,Individual sprint,M,Silver,Norway,45.0656,7.687
+2006,Turin,Skiing,Ski Jumping,NOR,K120 individual (90m),M,Bronze,Norway,45.0656,7.687
+2006,Turin,Skiing,Ski Jumping,NOR,K120 team (90m),M,Bronze,Norway,45.0656,7.687
+2006,Turin,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Bronze,Norway,45.0656,7.687
+2006,Turin,Skiing,Ski Jumping,NOR,K90 individual (70m),M,Gold,Norway,45.0656,7.687
+2006,Turin,Skiing,Snowboard,NOR,Half-pipe,W,Bronze,Norway,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,POL,15km mass start,M,Silver,Poland,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,POL,30km,W,Bronze,Poland,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,RUS,10km pursuit,W,Bronze,Russia,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,RUS,15km,W,Bronze,Russia,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,RUS,15km,W,Gold,Russia,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,RUS,4x6km relay,W,Gold,Russia,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,RUS,4x7.5km relay,M,Silver,Russia,45.0656,7.687
+2006,Turin,Bobsleigh,Bobsleigh,RUS,four-man,M,Silver,Russia,45.0656,7.687
+2006,Turin,Luge,Luge,RUS,singles,M,Silver,Russia,45.0656,7.687
+2006,Turin,Skating,Figure skating,RUS,ice dancing,X,Gold,Russia,45.0656,7.687
+2006,Turin,Skating,Figure skating,RUS,individual,M,Gold,Russia,45.0656,7.687
+2006,Turin,Skating,Figure skating,RUS,individual,W,Bronze,Russia,45.0656,7.687
+2006,Turin,Skating,Figure skating,RUS,pairs,X,Gold,Russia,45.0656,7.687
+2006,Turin,Skating,Speed skating,RUS,500m,M,Silver,Russia,45.0656,7.687
+2006,Turin,Skating,Speed skating,RUS,500m,W,Gold,Russia,45.0656,7.687
+2006,Turin,Skating,Speed skating,RUS,Team pursuit,W,Bronze,Russia,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,RUS,30km,W,Silver,Russia,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,RUS,4x5km relay,W,Gold,Russia,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,RUS,50km,M,Silver,Russia,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,RUS,Combined 15 + 15km mass start,M,Gold,Russia,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,RUS,Combined 7.5 + 7.5km mass start,W,Bronze,Russia,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,RUS,sprint 1.5km,W,Bronze,Russia,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,RUS,Team sprint,M,Bronze,Russia,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,RUS,aerials,M,Bronze,Russia,45.0656,7.687
+2006,Turin,Bobsleigh,Bobsleigh,SUI,four-man,M,Bronze,Switzerland,45.0656,7.687
+2006,Turin,Bobsleigh,Bobsleigh,SUI,two-man,M,Bronze,Switzerland,45.0656,7.687
+2006,Turin,Bobsleigh,Skeleton,SUI,individual,M,Bronze,Switzerland,45.0656,7.687
+2006,Turin,Bobsleigh,Skeleton,SUI,individual,W,Gold,Switzerland,45.0656,7.687
+2006,Turin,Curling,Curling,SUI,curling,W,Silver,Switzerland,45.0656,7.687
+2006,Turin,Skating,Figure skating,SUI,individual,M,Silver,Switzerland,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,SUI,downhill,M,Bronze,Switzerland,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,SUI,downhill,W,Silver,Switzerland,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,SUI,super-G,M,Bronze,Switzerland,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,SUI,aerials,W,Gold,Switzerland,45.0656,7.687
+2006,Turin,Skiing,Snowboard,SUI,Giant parallel slalom,M,Gold,Switzerland,45.0656,7.687
+2006,Turin,Skiing,Snowboard,SUI,Giant parallel slalom,M,Silver,Switzerland,45.0656,7.687
+2006,Turin,Skiing,Snowboard,SUI,Giant parallel slalom,W,Gold,Switzerland,45.0656,7.687
+2006,Turin,Skiing,Snowboard,SUI,Snowboard Cross,W,Gold,Switzerland,45.0656,7.687
+2006,Turin,Skiing,Snowboard,SVK,Snowboard Cross,M,Silver,Slovakia,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,SWE,"12,5km mass start",W,Gold,Sweden,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,SWE,7.5km,W,Silver,Sweden,45.0656,7.687
+2006,Turin,Curling,Curling,SWE,curling,W,Gold,Sweden,45.0656,7.687
+2006,Turin,Ice Hockey,Ice Hockey,SWE,ice hockey,M,Gold,Sweden,45.0656,7.687
+2006,Turin,Ice Hockey,Ice Hockey,SWE,ice hockey,W,Silver,Sweden,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,SWE,Alpine combined,W,Bronze,Sweden,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,SWE,downhill,W,Bronze,Sweden,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,SWE,giant slalom,W,Bronze,Sweden,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,SWE,slalom,W,Gold,Sweden,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,SWE,4x10km relay,M,Bronze,Sweden,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,SWE,"Sprint 1,5km",M,Bronze,Sweden,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,SWE,"Sprint 1,5km",M,Gold,Sweden,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,SWE,Team sprint,M,Gold,Sweden,45.0656,7.687
+2006,Turin,Skiing,Cross Country S,SWE,Team sprint,W,Gold,Sweden,45.0656,7.687
+2006,Turin,Biathlon,Biathlon,UKR,7.5km,W,Bronze,Ukraine,45.0656,7.687
+2006,Turin,Skating,Figure skating,UKR,ice dancing,X,Bronze,Ukraine,45.0656,7.687
+2006,Turin,Bobsleigh,Bobsleigh,USA,two-man,W,Silver,United States,45.0656,7.687
+2006,Turin,Curling,Curling,USA,curling,M,Bronze,United States,45.0656,7.687
+2006,Turin,Ice Hockey,Ice Hockey,USA,ice hockey,W,Bronze,United States,45.0656,7.687
+2006,Turin,Skating,Figure skating,USA,ice dancing,X,Silver,United States,45.0656,7.687
+2006,Turin,Skating,Figure skating,USA,individual,W,Silver,United States,45.0656,7.687
+2006,Turin,Skating,Short Track S.,USA,1000m,M,Bronze,United States,45.0656,7.687
+2006,Turin,Skating,Short Track S.,USA,5000m relay,M,Bronze,United States,45.0656,7.687
+2006,Turin,Skating,Short Track S.,USA,500m,M,Gold,United States,45.0656,7.687
+2006,Turin,Skating,Speed skating,USA,10000m,M,Silver,United States,45.0656,7.687
+2006,Turin,Skating,Speed skating,USA,1000m,M,Gold,United States,45.0656,7.687
+2006,Turin,Skating,Speed skating,USA,1000m,M,Silver,United States,45.0656,7.687
+2006,Turin,Skating,Speed skating,USA,1500m,M,Bronze,United States,45.0656,7.687
+2006,Turin,Skating,Speed skating,USA,1500m,M,Silver,United States,45.0656,7.687
+2006,Turin,Skating,Speed skating,USA,5000m,M,Gold,United States,45.0656,7.687
+2006,Turin,Skating,Speed skating,USA,500m,M,Gold,United States,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,USA,Alpine combined,M,Gold,United States,45.0656,7.687
+2006,Turin,Skiing,Alpine Skiing,USA,giant slalom,W,Gold,United States,45.0656,7.687
+2006,Turin,Skiing,Freestyle Ski.,USA,moguls,M,Bronze,United States,45.0656,7.687
+2006,Turin,Skiing,Snowboard,USA,Giant parallel slalom,W,Bronze,United States,45.0656,7.687
+2006,Turin,Skiing,Snowboard,USA,Half-pipe,M,Gold,United States,45.0656,7.687
+2006,Turin,Skiing,Snowboard,USA,Half-pipe,M,Silver,United States,45.0656,7.687
+2006,Turin,Skiing,Snowboard,USA,Half-pipe,W,Gold,United States,45.0656,7.687
+2006,Turin,Skiing,Snowboard,USA,Half-pipe,W,Silver,United States,45.0656,7.687
+2006,Turin,Skiing,Snowboard,USA,Snowboard Cross,M,Gold,United States,45.0656,7.687
+2006,Turin,Skiing,Snowboard,USA,Snowboard Cross,W,Silver,United States,45.0656,7.687

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.chart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+
+</style>
+<div class="d3"></div>
+<script src="http://d3js.org/d3.v6.min.js" charset="utf-8"></script>
+<script>
+
+ // D3 .append(), .attr(), and .style() 
+ // all return the element or elements
+ // they operated on, so they can be chained
+ // as follows:
+
+let svg = d3.select('.d3')
+   .append('svg')
+   .attr("width", 400)
+   .attr("height", 300);
+
+ // Add a circle
+ svg.append("circle")
+   .attr("class", "myCircles")
+   .attr("id", "circle_top")
+   .attr("cx", 40)
+   .attr("cy", 60)
+   .attr("r", 30);
+
+ // Add second circle
+ svg.append("circle")
+   .attr("class", "myCircles")
+   .attr("id", "circle_bottom")
+   .attr("cx", 40)
+   .attr("cy", 120)
+   .attr("r", 20);
+
+ // Add a rectangle
+ svg.append("rect")
+   .attr("x", 100)
+   .attr("y", 60)
+   .attr("width", 30)
+   .attr("height", 50)
+   .style("fill", "orange");
+
+ // Add a line
+ svg.append("line")
+   .attr("x2", 250)
+   .attr("y2", 90)
+   .attr("x1", 150)
+   .attr("y1", 60)
+   .attr("stroke", "black")
+   .attr("stroke-width", 2);
+</script>

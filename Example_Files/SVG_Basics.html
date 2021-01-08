@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Browser Tab Title</title>
+
+        <!-- http://www.w3schools.com/svg/svg_reference.asp -->
+    </head>
+
+    <!-- SVG is embedded directly in HTML body -->
+    <body>
+        <h1 style="text-align:center">SVG</h1>
+
+        <!-- Start with SVG canvas of pre-defined size -->
+        <svg width="600" height="400">
+
+            <!-- Add SVG elements with properties -->
+            <circle cx="25" cy="25" r="22"
+             fill="blue" stroke="gray" stroke-width="2"/>
+        
+            <circle cx="50" cy="25" r="22"
+             fill="blue" stroke="gray" stroke-width="2"/>
+
+             <!-- Style attributes are similar to CSS,
+                  but differently named -->
+            <rect x="90" y="90" rx="5" ry="5" width="50" height="50"
+              style="fill:red;
+                      stroke:black;
+                      stroke-width:5;
+                      opacity:0.5" />
+
+            <!-- Note: elements are drawn in order from top to bottom -->
+            <line x1="0" y1="0" x2="100" y2="100" style="stroke:rgb(255,0,0);stroke-width:2" />
+
+            <!-- We can make arbitrary shapes with the polygon element
+                by defining verticies as pairs... -->
+            <polygon points="200,10 
+                             250,190 
+                             160,210" 
+                     style="fill:lime;
+                            stroke:purple;
+                            stroke-width:1" />
+
+          <polygon points="100,210 
+                            40,398 
+                            190,278 
+                            10,278 
+                            160,398"
+                    style="fill:lime;
+                           stroke:purple;
+                           stroke-width:5;
+                           fill-rule:evenodd;
+                           <!-- fill-rule:nonzero; -->" />
+
+          <!-- We can also make arbitrary compositions of straight lines
+               to connect a set of points -->
+          <polyline points="220,20 
+                            240,25 
+                            260,40 
+                            280,120 
+                            320,140 
+                            400,180"
+                    style="fill:none;
+                           stroke:black;
+                           stroke-width:3" />
+
+            <!-- You can add text with similar style attributes -->
+            <text x="300" y="150" fill="red" style="font-size: 25px;" transform="rotate(30 20,40)">DSE 241 SVG Demo</text>
+
+            <!-- Fancy things: defining a gradient fill -->
+              <defs>
+                <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+                  <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:0" />
+                  <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+                </radialGradient>
+              </defs>
+
+            <ellipse cx="400" cy="100" rx="85" ry="55" fill="url(#grad1)" />
+
+        </svg>
+    </body>
+</html>

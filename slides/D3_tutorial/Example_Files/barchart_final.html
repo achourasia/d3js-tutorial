@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <style>
+    .bar {
+      fill: steelblue;
+    }
+
+    .bar:hover {
+      fill: brown;
+    }
+
+    .axis {
+      font: 10px sans-serif;
+    }
+
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+
+    .x.axis path {
+      display: none;
+    }
+  </style>
+  <script src="https://d3js.org/d3.v6.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+  <!-- Create Selector for letter type -->
+  <select id="opts">
+    <option value="V">Vowels</option>
+    <option value="C" selected="selected">Consonants</option>
+  </select>
+
+  <script>
+    // Define list of vowels to use with our selector
+    let vowels = ["A", "E", "I", "O", "U", "Y"];
+
+    // Use margin convention (http://bl.ocks.org/mbostock/3019563)
+    let margin = { top: 20, right: 20, bottom: 30, left: 40 },
+      width = 960 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
+
+    let x = d3.scaleBand()
+      .rangeRound([0, width])
+      .padding(0.1);
+
+    let y = d3.scaleLinear()
+      .range([height, 0]);
+
+    let xAxis = d3.axisBottom(x);
+
+    let yAxis = d3.axisLeft(y)
+      .ticks(10, "%");
+
+    let svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    d3.tsv("letter_freqs.tsv")
+      .then((data) => {
+        let letter_selection = d3.select("#opts").property('value');
+
+        // Filter the data by the selection criterion
+        selected_data = data.filter(function (d) {
+          if (letter_selection === "V") {
+            // If selection is vowels, only return letters which are contained
+            // in the vowels list
+            return (vowels.indexOf(d.letter) !== -1);
+          }
+          else {
+            // If selection is other, return ones that arent in vowel list
+            return (vowels.indexOf(d.letter) === -1);
+          }
+        });
+
+        // Specify the scales for the x and y dimensions based on the selected data
+        x.domain(selected_data.map(function (d) { return d.letter; }));
+        y.domain([0, d3.max(selected_data, function (d) { return d.frequency; })]);
+
+        // Add x-axis
+        svg.append("g")
+          .attr("class", "x axis")
+          .attr("transform", "translate(0," + height + ")")
+          .call(xAxis);
+
+        // Add y-axis
+        svg.append("g")
+          .attr("class", "y axis")
+          .call(yAxis)
+          .append("text")
+          .attr("transform", "rotate(-90)")
+          .attr("y", 6)
+          .attr("dy", ".71em")
+          .style("text-anchor", "end")
+          .text("Frequency");
+
+        // Add a rect for each data point
+        svg.selectAll(".bar")
+          .data(selected_data, function (d) { return d.letter; })
+          .enter().append("rect")
+          .attr("class", "bar")
+          .attr("x", function (d) { return x(d.letter); })
+          .attr("width", x.bandwidth())
+          .attr("y", function (d) { return y(d.frequency); })
+          .attr("height", function (d) { return height - y(d.frequency); });
+
+
+        // Define a callback for when the dropdown changes
+        d3.select('#opts').on("change", function () {
+          // Get the currently selected letter type from the dropdown
+          let letter_selection = d3.select("#opts").property('value');
+
+          // Filter the data by the selection criterion
+          selected_data = data.filter(function (d) {
+            if (letter_selection === "V") {
+              // If selection is vowels, only return letters which are contained
+              // in the vowels list
+              return (vowels.indexOf(d.letter) !== -1);
+            }
+            else {
+              // If selection is other, return ones that arent in vowel list
+              return (vowels.indexOf(d.letter) === -1);
+            }
+          });
+
+          // Update the domain of each axis to the new data range
+          x.domain(selected_data.map(function (d) { return d.letter; }));
+          y.domain([0, d3.max(selected_data, function (d) { return d.frequency; })]);
+
+          // Change the x axis to use the new x-scale
+          svg.select(".x.axis")
+            .transition()
+            .duration(1000)
+            .call(xAxis);
+
+          // Change the y axis to use the new y-scale
+          svg.select(".y.axis")
+            .transition()
+            .duration(1000)
+            .call(yAxis)
+
+          // Bind the new data to all the bars
+          let bars = svg.selectAll(".bar")
+            .data(selected_data, function (d) { return d.letter; });
+
+          // For all the new letters we're showing, set their initial 
+          // size to 0 and position them in the lower left corner
+          bars.enter()
+            .append('rect')
+            .attr('class', 'bar')
+            .attr("x", 0)
+            .attr("y", height)
+            .attr("width", 0)
+            .attr("height", 0)
+            // Then transition them to their correct positions and size
+            .transition()
+            .duration(1000)
+            .attr("x", function (d) { return x(d.letter); })
+            .attr("width", x.rangeBand())
+            .attr("y", function (d) { return y(d.frequency); })
+            .attr("height", function (d) { return height - y(d.frequency); });
+
+          // For all the letters we no longer are showing, transition them
+          // off to the right and fade to background before removing
+          bars.exit()
+            .transition()
+            .duration(600)
+            .attr("x", width)
+            .style("fill-opacity", 0)
+            .remove();
+        });
+
+
+      })
+      .catch(error => console.log(error));
+
+  </script>
+</body>
+
+</html>

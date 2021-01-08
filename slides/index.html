@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>HTML Tutorial</title>
+    <link rel="stylesheet" type="text/css" href="deck/deck.css">
+    <script src="./d3/d3.v3.js"></script>
+    <script src="./deck/slide_maker.js"></script>
+    <script type="text/javascript">
+      var global;
+    </script>
+    <style>
+      .toc {
+        margin-top: 10px;
+        margin-left: 40px;
+        text-align: left;
+      }
+
+      .toc.list {
+        font-weight: bold;
+        font-size: 20px;
+        color: blue;
+      }
+      .main_title {
+        overflow: auto;
+      }
+      .links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+    </style>
+  </head>
+  <body>
+    <section class="main_title">
+      <h2 style="margin-top: 30%;">HTML, CSS, JS and D3 Tutorial</h2>
+      <div class="name">DSE 241</div>
+      <div class="date">Winter 2021</div>
+    </section>
+
+
+    <section class="main_title">
+      <h2 class="toc">Index</h2>
+      <div style="float: left; width: 50%;">
+        <ol class="toc list" type="I">
+          <li>HTML</li>
+          <ol>
+            <li><a href="#5">HTML Elements</a></li>
+            <li><a href="#6">HTML Elements - Examples</a></li>
+            <li><a href="#7">HTLM Document</a></li>
+            <li><a href="#8">HTLM Attributes</a></li>
+            <li><a href="#9">Styling</a></li>
+            <li><a href="#10">Tables</a></li>
+            <li><a href="#11">Lists</a></li>
+            <li><a href="#12">Blocks</a></li>
+            <li><a href="#13">Radio and Checkboxes</a></li>
+            <li><a href="#14">Dropdown</a></li>
+            <li><a href="#15">Range Slider</a></li>
+            <li><a href="#41">Layouts</a></li>
+            <li><a href="#42">Canvas</a></li>
+            <li><a href="#43">SVG</a></li>
+          </ol>
+          <li>JavaScript</li>
+          <ol>
+            <li><a href="#18">Script Tag</a></li>
+            <li><a href="#19">id and class attributes</a></li>
+            <li><a href="#20">JavaScript Selectors</a></li>
+            <li><a href="#21">JavaScript Events</a></li>
+            <li><a href="#22">Simple Calculator</a></li>
+            <li><a href="#23">Tables</a></li>
+          </ol>
+          <li>CSS</li>
+          <ol>
+            <li><a href="#25">CSS Basics</a></li>
+            <li><a href="#26">IDs and classes</a></li>
+            <li><a href="#27">Styling Properties</a></li>
+            <li><a href="#28">More Properties</a></li>
+            <li><a href="#29">Text Properties</a></li>
+            <li><a href="#30">Styling on events</a></li>
+            <li><a href="#31">Combinators</a></li>
+            <li><a href="#32">Tables</a></li>
+            <li><a href="#33">Images</a></li>
+            <li><a href="#35">More Styling</a></li>
+            <li><a href="#36">Bit More Styling</a></li>
+            <li><a href="#37">Transformations</a></li>
+            <li><a href="#38">Transitions</a></li>
+
+          </ol>
+          <li>More JavaScript</li>
+            <ol>
+              <li><a href="D3_tutorial/slides/index.html#3">JavaScript Basics</a></li>
+              <li><a href="D3_tutorial/slides/index.html#4">JavaScript Vairables: Numbers</a></li>
+              <li><a href="D3_tutorial/slides/index.html#5">JavaScript Vairables: Strings</a></li>
+              <li><a href="D3_tutorial/slides/index.html#6">Template Literals</a></li>
+              <li><a href="D3_tutorial/slides/index.html#7">JavaScript Arrays</a></li>
+              <li><a href="D3_tutorial/slides/index.html#8">JavaScript Array Methods</a></li>
+              <li><a href="D3_tutorial/slides/index.html#9">JavaScript Objects</a></li>
+              <li><a href="D3_tutorial/slides/index.html#10">More JavaScript Objects</a></li>
+              <li><a href="D3_tutorial/slides/index.html#11">Operations and Comparisons</a></li>
+              <li><a href="D3_tutorial/slides/index.html#12">JavaScript Control Flow</a></li>
+              <li><a href="D3_tutorial/slides/index.html#13">JavaScript Functions</a></li>
+              <li><a href="D3_tutorial/slides/index.html#14">JavaScript Promise</a></li>
+            </ol>
+      </div>
+      <div style="float: right; width: 50%;">
+        <ol class="toc list" start="5" type="I">
+          <li>D3</li>
+            <ol>
+              <li><a href="D3_tutorial/slides/index.html#17">d3.select</a></li>
+              <li><a href="D3_tutorial/slides/index.html#18">Adding DOM elements with D3</a></li>
+              <li><a href="D3_tutorial/slides/index.html#19">Chaining D3 methods</a></li>
+              <li><a href="D3_tutorial/slides/index.html#22">SVG Selections</a></li>
+              <li><a href="D3_tutorial/slides/index.html#23">Multiple Selections: .selectAll()</a></li>
+              <li><a href="D3_tutorial/slides/index.html#24">Acting on Selections Individually</a></li>
+              <li><a href="D3_tutorial/slides/index.html#26">Binding Data: .data()</a></li>
+              <li><a href="D3_tutorial/slides/index.html#29">Entering Elements: .enter()</a></li>
+              <li><a href="D3_tutorial/slides/index.html#30">ENTER EVERYTHING</a></li>
+              <li><a href="D3_tutorial/slides/index.html#31">ENTER EVERYTHING: The pattern</a></li>
+              <li><a href="D3_tutorial/slides/index.html#33">Exiting Elements: .exit()</a></li>
+              <li><a href="D3_tutorial/slides/index.html#35">Scales</a></li>
+              <li><a href="D3_tutorial/slides/index.html#36">A basic scaled barchart</a></li>
+              <li><a href="D3_tutorial/slides/index.html#37">Flipping the barchart</a></li>
+              <li><a href="D3_tutorial/slides/index.html#38">Basic Scatterplot</a></li>
+              <li><a href="D3_tutorial/slides/index.html#39">Basic Histogram</a></li>
+              <li><a href="D3_tutorial/slides/index.html#41">Basic Transition</a></li>
+              <li><a href="D3_tutorial/slides/index.html#42">Transitions For New Elements</a></li>
+              <li><a href="D3_tutorial/slides/index.html#43">Transitioning in the barchart</a></li>
+              <li><a href="D3_tutorial/slides/index.html#46">.data(..., join)</a></li>
+              <li><a href="D3_tutorial/slides/index.html#48">d3.csv()</a></li>
+              <li><a href="D3_tutorial/slides/index.html#50">d3.group()</a></li>
+              <li><a href="D3_tutorial/slides/index.html#51">d3.rollup()</a></li>
+              <li><a href="D3_tutorial/slides/index.html#54">Advanced Scales</a></li>
+              <li><a href="D3_tutorial/slides/index.html#56">Adding Axes</a></li>  
+            </ol>
+          <li>Interesting Examples</li>
+            <ol>
+              <li><a href="D3_tutorial/slides/index.html#58">Force-Directed Graph</a></li> 
+              <li><a href="D3_tutorial/slides/index.html#59">Expandible Dendrite Plot</a></li> 
+              <li><a href="http://bl.ocks.org/mbostock/4063582">Treemap</a></li> 
+              <li><a href="http://bost.ocks.org/mike/miserables/">Les Misérables Adjacency Matrix</a></li> 
+              <li><a href="http://bost.ocks.org/mike/nations/">Health and Wealth of nations</a></li> 
+              <li><a href="http://bl.ocks.org/mbostock/4060606">US Unemployment</a></li> 
+              <li><a href="D3_tutorial/Example_Files/drag_d3.html">Draggable</a></li>
+              <li><a href="D3_tutorial/Example_Files/crossfilter.html">Crossfilter</a></li> 
+            </ol>
+          <li>Full Example Files</li>
+            <ol>
+              <a href="../Example_Files/HTML_Basics.html"><li>HTML Example File</li></a>
+              <a href="../Example_Files/CSS_Basics.html"><li>CSS Example File</li></a>
+              <a href="../Example_Files/SVG_Basics.html"><li>SVG Example File</li></a>
+              <a href="D3_tutorial/Example_Files/barchart.html"><li>D3 Basic Barchart</li></a>
+              <a href="D3_tutorial/Example_Files/barchart_from_csv.html"><li>D3 Barchart From CSV</li></a>
+              <a href="D3_tutorial/Example_Files/barchart_update_data.html"><li>D3 Update Data on Click</li></a>
+              <a href="D3_tutorial/Example_Files/barchart_final.html"><li>D3 Barchart with Ordinal Scale</li></a>
+            </ol>
+
+        </ol>
+      </div>
+    </section>
+
+    <script src="html_slides.js"></script>
+
+
+    <section class="title">
+      <h1>Questions?</h1>
+    </section>
+
+    <script src="deck/deck.js"></script>
+  </body>
+</html>
