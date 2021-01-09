@@ -6,6 +6,7 @@ h1{margin:0;}
 body{background:#929292;font-family:"Helvetica Neue",Arial,sans-serif;text-align:center;}
 section{width:1024px;height:768px;position:absolute;top:50%;left:50%;margin-left:-512px;margin-top:-384px;border-radius:8px;-o-border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;background:white;-moz-box-shadow:0px 0px 2px 2px #ccc;-webkit-box-shadow:0px 0px 2px 2px #ccc;box-shadow:0px 0px 2px 2px #ccc;}section.main_title h1{margin-top:140px;font-size:256px;}
 section.main_title h2{margin-top:20px;font-size:56px;}
+section.main_title .index_link{float:right; margin: 20px 20px 0 0;cursor: pointer;}
 section.title h1{margin-top:310px;margin-left:40px;margin-right:40px;font-size:40px;}
 section.top_title h1{margin-top:22px;margin-bottom:15px;font-size:36px;}
 section.top_title a{display:block;margin-top:30px;font-size:28px;}
@@ -16,6 +17,8 @@ section.code_slide div.codes div.button_bar{position:absolute;right:16px;bottom:
 section.code_slide div.out{position:absolute;right:10px;bottom:10px;left:517px;top:90px;border:1px solid #ccc;}section.code_slide div.out div.error{position:absolute;background:white;top:5px;left:5px;right:5px;color:red;border:2px solid red;z-index:100;padding:10px;font-size:16px;}
 section.code_slide div.out pre.log{position:absolute;background:white;top:5px;left:5px;right:5px;border:2px solid black;z-index:99;padding:10px;font-size:16px;text-align:left;}
 section.code_slide a{float:right; margin: 20px 20px 0 0;cursor: pointer;}
+section.title .index_link{float:right; margin: 20px 20px 0 0;cursor: pointer;}
+section.code_title .index_link{float:right; margin: 20px 20px 0 0;cursor: pointer;}
 section .name,section .date{position:absolute;bottom:20px;color:#999;}
 section .name{left:20px;}
 section .date{right:20px;}

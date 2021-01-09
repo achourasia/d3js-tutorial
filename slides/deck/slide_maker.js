@@ -99,18 +99,26 @@
     }
 
     slide.code_title = function(title) {
-        d3.select('body')
+        const t = d3.select('body')
             .append('section')
-            .attr('class', "code_title")
-            .append('h1')
-            .text(title);
+            .attr('class', "code_title");
+
+        t.append('a')
+          .text('Index').attr('href', '/slides/#2').attr('class', 'index_link');
+
+        t.append('h1')
+            .html(title);
     }
 
     slide.title = function(title) {
-        d3.select('body')
+        const t = d3.select('body')
             .append('section')
-            .attr('class', "title")
-            .append('h1')
+            .attr('class', "title");
+
+        t.append('a')
+          .text('Index').attr('href', '/slides/#2').attr('class', 'index_link');
+
+        t.append('h1')
             .html(title);
     }
 })();
