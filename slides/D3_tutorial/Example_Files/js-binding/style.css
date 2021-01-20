@@ -1,0 +1,26 @@
+.custom-slider {
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+
+.toc {
+    margin-top: 10px;
+    margin-left: 40px;
+    text-align: left;
+}
+
+.toc.list {
+    font-weight: bold;
+    font-size: 20px;
+    color: blue;
+}
+
+
+.bar {
+    fill: steelblue;
+}
+
+.bar:hover {
+    fill: brown;
+    cursor: pointer;
+}
