@@ -1470,37 +1470,30 @@ slide.code "Adding Axes", empty_svg, """
 // Select the SVG canvas
 let svg = d3.select('div.output svg');
 
-// Given a canvas width and height
-let w = 500, h = 600, padding = 100;
+var width = 400, height = 500;
 
-// First get the scales
-let xScale = d3.scaleLinear()
-  .domain([-1, 1])
-  .range([0, w])
 
-let yScale = d3.scaleLinear()
-  .domain([0, 1000])
-  .range([0, h])
+var xscale = d3.scaleLinear()
+    .domain([0, 50])
+    .range([0, width - 100]);
 
-/* Define the axes using axes
-orientation and scale functions
-For orientation we use:
-axisLeft,axisRight,axisTop or axisBottom
-*/
-let xAxis = d3.axisBottom(xScale);  
-let yAxis = d3.axisLeft(yScale);
+var yscale = d3.scaleLinear()
+        .domain([0, 50])
+        .range([height/2, 0]);
 
-// To actually draw the SVG axis to the screen
-// we have to say 'where' and give it something
-// to be drawn in (like a <g> tag). We then use
-// .call() to call the Axis drawing functions
-svg.append("g")
-    .attr("transform", `translate(0, ${h})`)
-    .call(xAxis);
+var x_axis = d3.axisBottom()
+        .scale(xscale);
+
+var y_axis = d3.axisLeft()
+        .scale(yscale);
 
 svg.append("g")
-    .attr("transform", `translate(${padding}, 0)`)
-    .call(yAxis);
+       .attr("transform", "translate(50, 250)")
+       .call(y_axis);
+
+svg.append("g")
+        .attr("transform", "translate(50, " +height  +")")
+        .call(x_axis)
 
 """
 
