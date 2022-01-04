@@ -65,7 +65,7 @@
 
   slide.title("Theres even more important parts of JavaScript that could help you, like Closures and Inheritance, but for now this is enough. Check out 'JavaScript: The Good Parts' for more.");
 
-  slide.title("Now some D3...");
+  slide.title("Now some D3... <a href='https://codepen.io/collection/WvxLBo?sort_by=item_created_at&grid_type=list'><h1>Codepen Collection</h1></a>");
 
   slide.code("Selections: d3.select()", null, "// d3.select(\"selector\") scans the html document\n// and returns the first instance of 'selector'\n// it finds, where 'selector' is a CSS selector\n\n// Since these slides have a \n// <div class=\"out output\"></div>   ----->>>>\n// we select that to work with\n\nlet output_div = d3.select('div.out.output');\n\n// We can then set CSS style of the selected\n// element with .style('name', value)\n\noutput_div.style('background-color', 'blue');\n\n// We can modify all other non-style attributes\n// like 'class' and 'id' with .attr()\n\noutput_div.attr('id', 'main_output');\n");
 
