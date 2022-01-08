@@ -1,4 +1,4 @@
-1. Install the recommended code editor - [Visual Studio Code](https://code.visualstudio.com/)
+1. Install the a code editor such as [Visual Studio Code](https://code.visualstudio.com/)
 2. Install [Python 3](https://www.python.org/). This is used to run the http server
 3. Open a terminal in the root of the tutorial package and enter python -m http.server 8080 to
 spin up a http server (Use CTRL + C to kill the server after use)
